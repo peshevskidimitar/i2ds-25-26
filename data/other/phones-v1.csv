@@ -1,0 +1,1012 @@
+Brand,Model,Storage (GB),RAM (GB),Launch,Dimensions,Weight (g),Display Type,Display Size,OS,NFC,Battery (mAh),CPU,Year,PPI Density,Price Range
+Apple,Apple iPhone X,256,3,2017-11-03,143.6 x 70.9 x 7.7 mm (5.65 x 2.79 x 0.30 in),174.0,OLED,5.8,iOS,True,2716.0,Hexa-Core,2017,458,high price
+Apple,Apple iPhone X,256,3,2017-11-03,143.6 x 70.9 x 7.7 mm (5.65 x 2.79 x 0.30 in),174.0,OLED,5.8,iOS,True,2716.0,Hexa-Core,2017,458,low price
+Samsung,Samsung Galaxy S9+,64,6,2018-03-01,158.1 x 73.8 x 8.5 mm (6.22 x 2.91 x 0.33 in),189.0,AMOLED,6.2,Android,True,3500.0,Octa-Core,2018,529,low price
+Samsung,Samsung Galaxy S9+,128,6,2018-03-01,158.1 x 73.8 x 8.5 mm (6.22 x 2.91 x 0.33 in),189.0,AMOLED,6.2,Android,True,3500.0,Octa-Core,2018,529,medium price
+Samsung,Samsung Galaxy S9+,256,6,2018-03-01,158.1 x 73.8 x 8.5 mm (6.22 x 2.91 x 0.33 in),189.0,AMOLED,6.2,Android,True,3500.0,Octa-Core,2018,529,high price
+Samsung,Samsung Galaxy S9+,64,6,2018-03-01,158.1 x 73.8 x 8.5 mm (6.22 x 2.91 x 0.33 in),189.0,AMOLED,6.2,Android,True,3500.0,Octa-Core,2018,529,medium price
+Samsung,Samsung Galaxy S9+,128,6,2018-03-01,158.1 x 73.8 x 8.5 mm (6.22 x 2.91 x 0.33 in),189.0,AMOLED,6.2,Android,True,3500.0,Octa-Core,2018,529,medium price
+Samsung,Samsung Galaxy S9+,64,6,2018-03-01,158.1 x 73.8 x 8.5 mm (6.22 x 2.91 x 0.33 in),189.0,AMOLED,6.2,Android,True,3500.0,Octa-Core,2018,529,high price
+Samsung,Samsung Galaxy S9,128,4,2018-03-09,147.7 x 68.7 x 8.5 mm (5.81 x 2.70 x 0.33 in),163.0,AMOLED,5.8,Android,True,3000.0,Octa-Core,2018,570,medium price
+Samsung,Samsung Galaxy S9,256,4,2018-03-09,147.7 x 68.7 x 8.5 mm (5.81 x 2.70 x 0.33 in),163.0,AMOLED,5.8,Android,True,3000.0,Octa-Core,2018,570,medium price
+Samsung,Samsung Galaxy S9,128,4,2018-03-09,147.7 x 68.7 x 8.5 mm (5.81 x 2.70 x 0.33 in),163.0,AMOLED,5.8,Android,True,3000.0,Octa-Core,2018,570,low price
+Samsung,,128,4,2018-03-09,147.7 x 68.7 x 8.5 mm (5.81 x 2.70 x 0.33 in),163.0,AMOLED,5.8,Android,True,3000.0,Octa-Core,2018,570,low price
+Samsung,Samsung Galaxy S9,256,4,2018-03-09,147.7 x 68.7 x 8.5 mm (5.81 x 2.70 x 0.33 in),163.0,AMOLED,5.8,Android,True,3000.0,Octa-Core,2018,570,high price
+Apple,Apple iPhone XS Max,256,4,2018-09-21,157.5 x 77.4 x 7.7 mm (6.20 x 3.05 x 0.30 in),208.0,OLED,6.5,iOS,True,3174.0,Hexa-Core,2018,458,medium price
+Apple,Apple iPhone XS Max,512,4,2018-09-21,157.5 x 77.4 x 7.7 mm (6.20 x 3.05 x 0.30 in),208.0,OLED,6.5,iOS,True,3174.0,Hexa-Core,2018,458,medium price
+Apple,Apple iPhone XS,256,4,2018-09-21,143.6 x 70.9 x 7.7 mm (5.65 x 2.79 x 0.30 in),177.0,OLED,5.8,iOS,True,2658.0,Hexa-Core,2018,458,medium price
+Apple,Apple iPhone XS,512,4,2018-09-21,143.6 x 70.9 x 7.7 mm (5.65 x 2.79 x 0.30 in),177.0,OLED,5.8,iOS,True,2658.0,Hexa-Core,2018,458,medium price
+Apple,,256,4,2018-09-21,157.5 x 77.4 x 7.7 mm (6.20 x 3.05 x 0.30 in),208.0,OLED,6.5,iOS,True,3174.0,Hexa-Core,2018,458,medium price
+Apple,Apple iPhone XS Max,512,4,2018-09-21,157.5 x 77.4 x 7.7 mm (6.20 x 3.05 x 0.30 in),208.0,OLED,6.5,iOS,True,3174.0,Hexa-Core,2018,458,medium price
+Apple,Apple iPhone XS,256,4,2018-09-21,143.6 x 70.9 x 7.7 mm (5.65 x 2.79 x 0.30 in),177.0,OLED,5.8,iOS,True,2658.0,Hexa-Core,2018,458,medium price
+Apple,Apple iPhone XS,512,4,2018-09-21,143.6 x 70.9 x 7.7 mm (5.65 x 2.79 x 0.30 in),177.0,OLED,5.8,iOS,True,2658.0,Hexa-Core,2018,458,medium price
+Apple,Apple iPhone XS Max,256,4,2018-09-21,157.5 x 77.4 x 7.7 mm (6.20 x 3.05 x 0.30 in),208.0,OLED,6.5,iOS,True,3174.0,Hexa-Core,2018,458,medium price
+Apple,Apple iPhone XS Max,512,4,2018-09-21,157.5 x 77.4 x 7.7 mm (6.20 x 3.05 x 0.30 in),208.0,OLED,6.5,iOS,True,3174.0,Hexa-Core,2018,458,medium price
+Apple,Apple iPhone XS,256,4,2018-09-21,143.6 x 70.9 x 7.7 mm (5.65 x 2.79 x 0.30 in),177.0,OLED,5.8,iOS,True,2658.0,Hexa-Core,2018,458,medium price
+Apple,Apple iPhone XS,512,4,2018-09-21,143.6 x 70.9 x 7.7 mm (5.65 x 2.79 x 0.30 in),177.0,OLED,5.8,iOS,True,2658.0,Hexa-Core,2018,458,medium price
+Apple,Apple iPhone XR,128,3,2018-10-26,150.9 x 75.7 x 8.3 mm (5.94 x 2.98 x 0.33 in),194.0,LCD,6.1,iOS,True,2942.0,Hexa-Core,2018,326,
+Apple,Apple iPhone XR,256,3,2018-10-26,150.9 x 75.7 x 8.3 mm (5.94 x 2.98 x 0.33 in),194.0,LCD,6.1,iOS,True,2942.0,Hexa-Core,2018,326,medium price
+Apple,Apple iPhone XR,128,3,2018-10-26,150.9 x 75.7 x 8.3 mm (5.94 x 2.98 x 0.33 in),194.0,LCD,6.1,iOS,True,2942.0,Hexa-Core,2018,326,medium price
+Apple,Apple iPhone XR,256,3,2018-10-26,150.9 x 75.7 x 8.3 mm (5.94 x 2.98 x 0.33 in),194.0,LCD,6.1,iOS,True,2942.0,Hexa-Core,2018,326,medium price
+Apple,Apple iPhone XR,128,3,2018-10-26,150.9 x 75.7 x 8.3 mm (5.94 x 2.98 x 0.33 in),194.0,LCD,6.1,iOS,True,2942.0,Hexa-Core,2018,326,medium price
+Apple,Apple iPhone XR,256,3,2018-10-26,150.9 x 75.7 x 8.3 mm (5.94 x 2.98 x 0.33 in),194.0,LCD,6.1,iOS,True,,Hexa-Core,2018,326,medium price
+Samsung,Samsung Galaxy S10e,128,8,2019-03-08,142.2 x 69.9 x 7.9 mm (5.60 x 2.75 x 0.31 in),150.0,AMOLED,5.8,Android,True,3100.0,Octa-Core,2019,438,medium price
+Samsung,Samsung Galaxy S10e,256,8,2019-03-08,142.2 x 69.9 x 7.9 mm (5.60 x 2.75 x 0.31 in),150.0,AMOLED,5.8,Android,True,3100.0,Octa-Core,2019,438,medium price
+Samsung,,512,8,2019-03-08,149.9 x 70.4 x 7.8 mm (5.90 x 2.77 x 0.31 in),157.0,AMOLED,6.1,Android,True,3400.0,Octa-Core,2019,550,medium price
+Samsung,Samsung Galaxy S10+,128,8,2019-03-08,157.6 x 74.1 x 7.8 mm (6.20 x 2.92 x 0.31 in),175.0,AMOLED,6.4,Android,True,4100.0,Octa-Core,2019,522,medium price
+Samsung,Samsung Galaxy S10+,512,8,2019-03-08,157.6 x 74.1 x 7.8 mm (6.20 x 2.92 x 0.31 in),175.0,AMOLED,6.4,Android,True,4100.0,Octa-Core,2019,522,medium price
+Samsung,Samsung Galaxy S10e,128,8,2019-03-08,142.2 x 69.9 x 7.9 mm (5.60 x 2.75 x 0.31 in),150.0,AMOLED,5.8,Android,True,3100.0,Octa-Core,2019,438,low price
+Samsung,Samsung Galaxy S10e,256,8,2019-03-08,142.2 x 69.9 x 7.9 mm (5.60 x 2.75 x 0.31 in),150.0,AMOLED,5.8,Android,True,3100.0,Octa-Core,2019,438,medium price
+Samsung,Samsung Galaxy S10,128,8,2019-03-08,149.9 x 70.4 x 7.8 mm (5.90 x 2.77 x 0.31 in),157.0,AMOLED,6.1,Android,True,3400.0,Octa-Core,2019,550,medium price
+Samsung,Samsung Galaxy S10,512,8,2019-03-08,149.9 x 70.4 x 7.8 mm (5.90 x 2.77 x 0.31 in),157.0,AMOLED,6.1,Android,True,3400.0,Octa-Core,2019,550,medium price
+Samsung,Samsung Galaxy S10+,128,8,2019-03-08,157.6 x 74.1 x 7.8 mm (6.20 x 2.92 x 0.31 in),175.0,AMOLED,6.4,Android,True,4100.0,Octa-Core,2019,522,medium price
+Samsung,Samsung Galaxy S10+,512,8,2019-03-08,157.6 x 74.1 x 7.8 mm (6.20 x 2.92 x 0.31 in),175.0,AMOLED,6.4,Android,True,4100.0,Octa-Core,2019,522,high price
+Samsung,Samsung Galaxy S10+,1000,12,2019-03-08,157.6 x 74.1 x 7.8 mm (6.20 x 2.92 x 0.31 in),175.0,AMOLED,6.4,Android,True,4100.0,Octa-Core,2019,522,high price
+Samsung,Samsung Galaxy S10e,128,8,2019-03-08,142.2 x 69.9 x 7.9 mm (5.60 x 2.75 x 0.31 in),150.0,AMOLED,5.8,Android,True,3100.0,Octa-Core,2019,438,medium price
+Samsung,Samsung Galaxy S10,512,8,2019-03-08,149.9 x 70.4 x 7.8 mm (5.90 x 2.77 x 0.31 in),157.0,AMOLED,6.1,Android,True,,Octa-Core,2019,550,medium price
+Samsung,Samsung Galaxy S10+,128,8,2019-03-08,157.6 x 74.1 x 7.8 mm (6.20 x 2.92 x 0.31 in),175.0,AMOLED,6.4,Android,True,4100.0,Octa-Core,2019,522,
+Samsung,Samsung Galaxy S10+,512,8,2019-03-08,157.6 x 74.1 x 7.8 mm (6.20 x 2.92 x 0.31 in),175.0,AMOLED,6.4,Android,True,4100.0,Octa-Core,2019,522,medium price
+Samsung,Samsung Galaxy Note10+,512,12,2019-08-23,162.3 x 77.2 x 7.9 mm (6.39 x 3.04 x 0.31 in),196.0,AMOLED,6.8,Android,True,4300.0,Octa-Core,2019,498,high price
+Samsung,Samsung Galaxy Note10+,512,12,2019-08-23,162.3 x 77.2 x 7.9 mm (6.39 x 3.04 x 0.31 in),196.0,AMOLED,6.8,Android,True,4300.0,Octa-Core,2019,498,medium price
+Samsung,Samsung Galaxy Note10+,512,12,2019-08-23,162.3 x 77.2 x 7.9 mm (6.39 x 3.04 x 0.31 in),196.0,AMOLED,6.8,Android,True,4300.0,Octa-Core,2019,498,high price
+Apple,Apple iPhone 11,128,4,2019-09-20,150.9 x 75.7 x 8.3 mm (5.94 x 2.98 x 0.33 in),194.0,LCD,6.1,iOS,True,3110.0,Hexa-Core,2019,326,medium price
+Apple,Apple iPhone 11,256,4,2019-09-20,150.9 x 75.7 x 8.3 mm (5.94 x 2.98 x 0.33 in),194.0,LCD,6.1,iOS,True,3110.0,Hexa-Core,2019,326,medium price
+Apple,Apple iPhone 11 Pro,256,4,2019-09-20,144 x 71.4 x 8.1 mm (5.67 x 2.81 x 0.32 in),188.0,OLED,5.8,iOS,True,3046.0,Hexa-Core,2019,458,medium price
+Apple,,512,4,2019-09-20,144 x 71.4 x 8.1 mm (5.67 x 2.81 x 0.32 in),188.0,OLED,5.8,iOS,True,3046.0,Hexa-Core,2019,458,medium price
+Apple,Apple iPhone 11 Pro Max,256,4,2019-09-20,158 x 77.8 x 8.1 mm (6.22 x 3.06 x 0.32 in),226.0,OLED,6.5,iOS,True,3969.0,Hexa-Core,2019,458,medium price
+Apple,Apple iPhone 11 Pro Max,512,4,2019-09-20,158 x 77.8 x 8.1 mm (6.22 x 3.06 x 0.32 in),226.0,OLED,6.5,iOS,True,3969.0,Hexa-Core,2019,458,high price
+Apple,Apple iPhone 11,128,4,2019-09-20,150.9 x 75.7 x 8.3 mm (5.94 x 2.98 x 0.33 in),194.0,LCD,6.1,iOS,True,3110.0,Hexa-Core,2019,326,medium price
+Apple,Apple iPhone 11,256,4,2019-09-20,150.9 x 75.7 x 8.3 mm (5.94 x 2.98 x 0.33 in),194.0,LCD,6.1,iOS,True,3110.0,Hexa-Core,2019,326,medium price
+Apple,Apple iPhone 11 Pro,256,4,2019-09-20,144 x 71.4 x 8.1 mm (5.67 x 2.81 x 0.32 in),188.0,OLED,5.8,iOS,True,3046.0,Hexa-Core,2019,458,medium price
+Apple,Apple iPhone 11 Pro,512,4,2019-09-20,144 x 71.4 x 8.1 mm (5.67 x 2.81 x 0.32 in),188.0,OLED,5.8,iOS,True,3046.0,Hexa-Core,2019,458,medium price
+Apple,Apple iPhone 11 Pro Max,256,4,2019-09-20,158 x 77.8 x 8.1 mm (6.22 x 3.06 x 0.32 in),226.0,OLED,6.5,iOS,True,3969.0,Hexa-Core,2019,458,medium price
+Apple,Apple iPhone 11 Pro Max,512,4,2019-09-20,158 x 77.8 x 8.1 mm (6.22 x 3.06 x 0.32 in),226.0,OLED,6.5,iOS,True,3969.0,Hexa-Core,2019,458,medium price
+Apple,Apple iPhone 11,128,4,2019-09-20,150.9 x 75.7 x 8.3 mm (5.94 x 2.98 x 0.33 in),194.0,LCD,6.1,iOS,True,3110.0,Hexa-Core,2019,326,medium price
+Apple,Apple iPhone 11,256,4,2019-09-20,150.9 x 75.7 x 8.3 mm (5.94 x 2.98 x 0.33 in),194.0,LCD,6.1,iOS,True,3110.0,Hexa-Core,2019,326,medium price
+Apple,,256,4,2019-09-20,144 x 71.4 x 8.1 mm (5.67 x 2.81 x 0.32 in),188.0,OLED,5.8,iOS,True,3046.0,Hexa-Core,2019,458,medium price
+Apple,Apple iPhone 11 Pro,512,4,2019-09-20,144 x 71.4 x 8.1 mm (5.67 x 2.81 x 0.32 in),188.0,OLED,5.8,iOS,True,3046.0,Hexa-Core,2019,458,medium price
+Apple,Apple iPhone 11 Pro Max,256,4,2019-09-20,158 x 77.8 x 8.1 mm (6.22 x 3.06 x 0.32 in),226.0,OLED,6.5,iOS,True,3969.0,Hexa-Core,2019,458,medium price
+Apple,Apple iPhone 11 Pro Max,512,4,2019-09-20,158 x 77.8 x 8.1 mm (6.22 x 3.06 x 0.32 in),226.0,OLED,6.5,iOS,True,3969.0,Hexa-Core,2019,458,medium price
+Samsung,Samsung Galaxy A51,128,4,2019-12-16,158.5 x 73.6 x 7.9 mm (6.24 x 2.90 x 0.31 in),172.0,AMOLED,6.5,Android,True,4000.0,Octa-Core,2019,405,medium price
+Samsung,Samsung Galaxy A51,128,6,2019-12-16,158.5 x 73.6 x 7.9 mm (6.24 x 2.90 x 0.31 in),172.0,AMOLED,6.5,Android,True,4000.0,Octa-Core,2019,405,medium price
+Samsung,Samsung Galaxy A51,128,4,2019-12-16,158.5 x 73.6 x 7.9 mm (6.24 x 2.90 x 0.31 in),172.0,AMOLED,6.5,Android,True,4000.0,Octa-Core,2019,405,low price
+Samsung,Samsung Galaxy A51,128,4,2019-12-16,158.5 x 73.6 x 7.9 mm (6.24 x 2.90 x 0.31 in),172.0,AMOLED,6.5,Android,True,4000.0,Octa-Core,2019,405,medium price
+Samsung,Samsung Galaxy A71,128,8,2020-01-17,163.6 x 76 x 7.7 mm (6.44 x 2.99 x 0.30 in),179.0,AMOLED,6.7,Android,True,4500.0,Octa-Core,2020,393,medium price
+Samsung,Samsung Galaxy A71,128,8,2020-01-17,163.6 x 76 x 7.7 mm (6.44 x 2.99 x 0.30 in),179.0,AMOLED,6.7,Android,True,4500.0,Octa-Core,2020,393,medium price
+Samsung,Samsung Galaxy A71,128,8,2020-01-17,163.6 x 76 x 7.7 mm (6.44 x 2.99 x 0.30 in),179.0,AMOLED,6.7,Android,True,4500.0,Octa-Core,2020,393,medium price
+Xiaomi,Xiaomi Mi 10 5G,256,6,2020-02-14,162.5 x 74.8 x 9 mm (6.40 x 2.94 x 0.35 in),208.0,AMOLED,6.67,Android,True,4780.0,Octa-Core,2020,386,medium price
+Xiaomi,Xiaomi Mi 10 5G,256,8,2020-02-14,162.5 x 74.8 x 9 mm (6.40 x 2.94 x 0.35 in),208.0,AMOLED,6.67,Android,True,4780.0,Octa-Core,2020,386,medium price
+Xiaomi,Xiaomi Mi 10 5G,256,6,2020-02-14,162.5 x 74.8 x 9 mm (6.40 x 2.94 x 0.35 in),208.0,AMOLED,6.67,Android,True,4780.0,Octa-Core,2020,386,medium price
+Xiaomi,Xiaomi Mi 10 5G,256,8,2020-02-14,162.5 x 74.8 x 9 mm (6.40 x 2.94 x 0.35 in),208.0,AMOLED,6.67,Android,True,4780.0,Octa-Core,2020,386,medium price
+Samsung,Samsung Galaxy S20 5G,128,12,2020-03-06,151.7 x 69.1 x 7.9 mm (5.97 x 2.72 x 0.31 in),163.0,AMOLED,6.2,Android,True,4000.0,Octa-Core,2020,563,medium price
+Samsung,,256,12,2020-03-06,166.9 x 76 x 8.8 mm (6.57 x 2.99 x 0.35 in),222.0,AMOLED,6.9,Android,True,5000.0,Octa-Core,2020,511,medium price
+Samsung,Samsung Galaxy S20 Ultra 5G,512,16,2020-03-06,166.9 x 76 x 8.8 mm (6.57 x 2.99 x 0.35 in),222.0,AMOLED,6.9,Android,True,5000.0,Octa-Core,2020,511,high price
+Samsung,Samsung Galaxy S20+ 5G,128,12,2020-03-06,161.9 x 73.7 x 7.8 mm (6.37 x 2.90 x 0.31 in),188.0,AMOLED,6.7,Android,True,4500.0,Octa-Core,2020,525,medium price
+Samsung,Samsung Galaxy S20+ 5G,256,12,2020-03-06,161.9 x 73.7 x 7.8 mm (6.37 x 2.90 x 0.31 in),188.0,AMOLED,6.7,Android,True,4500.0,Octa-Core,2020,525,high price
+Samsung,Samsung Galaxy S20 5G,128,12,2020-03-06,151.7 x 69.1 x 7.9 mm (5.97 x 2.72 x 0.31 in),163.0,AMOLED,6.2,Android,True,4000.0,Octa-Core,2020,563,medium price
+Samsung,Samsung Galaxy S20 Ultra 5G,256,12,2020-03-06,166.9 x 76 x 8.8 mm (6.57 x 2.99 x 0.35 in),222.0,AMOLED,6.9,Android,True,5000.0,Octa-Core,2020,511,medium price
+Samsung,Samsung Galaxy S20+ 5G,128,12,2020-03-06,161.9 x 73.7 x 7.8 mm (6.37 x 2.90 x 0.31 in),188.0,AMOLED,6.7,Android,True,4500.0,Octa-Core,2020,525,medium price
+Samsung,Samsung Galaxy S20+ 5G,256,12,2020-03-06,161.9 x 73.7 x 7.8 mm (6.37 x 2.90 x 0.31 in),188.0,AMOLED,6.7,Android,True,4500.0,Octa-Core,2020,525,medium price
+Samsung,Samsung Galaxy S20+ 5G,512,12,2020-03-06,161.9 x 73.7 x 7.8 mm (6.37 x 2.90 x 0.31 in),188.0,AMOLED,6.7,Android,True,4500.0,Octa-Core,2020,525,medium price
+Samsung,Samsung Galaxy S20 5G,128,12,2020-03-06,151.7 x 69.1 x 7.9 mm (5.97 x 2.72 x 0.31 in),163.0,AMOLED,6.2,Android,True,4000.0,Octa-Core,2020,563,medium price
+Samsung,Samsung Galaxy S20 Ultra 5G,256,12,2020-03-06,166.9 x 76 x 8.8 mm (6.57 x 2.99 x 0.35 in),222.0,AMOLED,6.9,Android,True,5000.0,Octa-Core,2020,511,medium price
+Samsung,Samsung Galaxy S20+ 5G,128,12,2020-03-06,161.9 x 73.7 x 7.8 mm (6.37 x 2.90 x 0.31 in),188.0,AMOLED,6.7,Android,True,4500.0,Octa-Core,2020,525,medium price
+Apple,Apple iPhone SE (2020),128,3,2020-04-24,138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in),148.0,LCD,4.7,iOS,True,1821.0,Hexa-Core,2020,326,medium price
+Apple,Apple iPhone SE (2020),256,3,2020-04-24,138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in),148.0,LCD,4.7,iOS,True,1821.0,Hexa-Core,2020,326,
+Apple,Apple iPhone SE (2020),128,3,2020-04-24,138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in),148.0,LCD,4.7,iOS,True,1821.0,Hexa-Core,2020,326,low price
+Apple,Apple iPhone SE (2020),256,3,2020-04-24,138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in),148.0,LCD,4.7,iOS,True,1821.0,Hexa-Core,2020,326,medium price
+Apple,Apple iPhone SE (2020),128,3,2020-04-24,138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in),148.0,LCD,4.7,iOS,True,1821.0,Hexa-Core,2020,326,medium price
+Apple,Apple iPhone SE (2020),256,3,2020-04-24,138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in),148.0,LCD,4.7,iOS,True,1821.0,Hexa-Core,2020,326,medium price
+Samsung,Samsung Galaxy A31,128,4,2020-04-27,159.3 x 73.1 x 8.6 mm (6.27 x 2.88 x 0.34 in),185.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2020,411,medium price
+Samsung,Samsung Galaxy A31,128,4,2020-04-27,159.3 x 73.1 x 8.6 mm (6.27 x 2.88 x 0.34 in),185.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2020,411,medium price
+Samsung,Samsung Galaxy A31,128,6,2020-04-27,159.3 x 73.1 x 8.6 mm (6.27 x 2.88 x 0.34 in),185.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2020,411,medium price
+Samsung,Samsung Galaxy A51 5G,128,8,2020-04-29,158.9 x 73.6 x 8.7 mm (6.26 x 2.90 x 0.34 in),187.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2020,405,medium price
+Samsung,Samsung Galaxy A51 5G,128,8,2020-04-29,158.9 x 73.6 x 8.7 mm (6.26 x 2.90 x 0.34 in),187.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2020,405,medium price
+Samsung,,128,8,2020-04-29,158.9 x 73.6 x 8.7 mm (6.26 x 2.90 x 0.34 in),187.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2020,405,medium price
+Xiaomi,Xiaomi Redmi Note 9S,128,4,2020-04-30,165.8 x 76.7 x 8.8 mm (6.53 x 3.02 x 0.35 in),209.0,LCD,6.67,Android,False,5020.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Redmi Note 9S,128,4,2020-04-30,165.8 x 76.7 x 8.8 mm (6.53 x 3.02 x 0.35 in),209.0,LCD,6.67,Android,False,5020.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Redmi Note 9S,128,6,2020-04-30,165.8 x 76.7 x 8.8 mm (6.53 x 3.02 x 0.35 in),209.0,LCD,6.67,Android,False,5020.0,Octa-Core,2020,395,medium price
+Samsung,Samsung Galaxy M11,64,4,2020-05-04,161.4 x 76.3 x 9 mm (6.35 x 3.00 x 0.35 in),197.0,LCD,6.4,Android,False,5000.0,Octa-Core,2020,268,medium price
+Samsung,,64,4,2020-05-04,161.4 x 76.3 x 9 mm (6.35 x 3.00 x 0.35 in),197.0,LCD,6.4,Android,False,5000.0,Octa-Core,2020,268,medium price
+Xiaomi,Xiaomi Redmi Note 9 Pro,128,6,2020-05-05,165.8 x 76.7 x 8.8 mm (6.53 x 3.02 x 0.35 in),209.0,LCD,6.67,Android,True,5020.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Redmi Note 9 Pro,128,6,2020-05-05,165.8 x 76.7 x 8.8 mm (6.53 x 3.02 x 0.35 in),209.0,LCD,6.67,Android,True,5020.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Mi Note 10 Lite,128,6,2020-05-09,157.8 x 74.2 x 9.7 mm (6.21 x 2.92 x 0.38 in),204.0,AMOLED,6.47,Android,True,5260.0,Octa-Core,2020,398,medium price
+Xiaomi,Xiaomi Mi Note 10 Lite,128,6,2020-05-09,157.8 x 74.2 x 9.7 mm (6.21 x 2.92 x 0.38 in),204.0,AMOLED,6.47,Android,True,5260.0,Octa-Core,2020,398,medium price
+Xiaomi,Xiaomi Redmi Note 9,64,4,2020-05-12,162.3 x 77.2 x 8.9 mm (6.39 x 3.04 x 0.35 in),199.0,LCD,6.53,Android,True,5020.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Redmi Note 9,128,4,2020-05-12,162.3 x 77.2 x 8.9 mm (6.39 x 3.04 x 0.35 in),199.0,LCD,6.53,Android,True,5020.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Redmi Note 9,64,4,2020-05-12,162.3 x 77.2 x 8.9 mm (6.39 x 3.04 x 0.35 in),199.0,LCD,6.53,Android,True,5020.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Redmi Note 9,128,4,2020-05-12,162.3 x 77.2 x 8.9 mm (6.39 x 3.04 x 0.35 in),199.0,LCD,6.53,Android,True,,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Redmi Note 9,64,4,2020-05-12,162.3 x 77.2 x 8.9 mm (6.39 x 3.04 x 0.35 in),199.0,LCD,6.53,Android,True,,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Redmi Note 9,128,4,2020-05-12,162.3 x 77.2 x 8.9 mm (6.39 x 3.04 x 0.35 in),199.0,LCD,6.53,Android,True,5020.0,Octa-Core,2020,395,low price
+Xiaomi,Xiaomi Poco F2 Pro,256,8,2020-05-19,163.3 x 75.4 x 8.9 mm (6.43 x 2.97 x 0.35 in),219.0,AMOLED,6.67,Android,True,4700.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Poco F2 Pro,256,8,2020-05-19,163.3 x 75.4 x 8.9 mm (6.43 x 2.97 x 0.35 in),219.0,AMOLED,6.67,Android,True,4700.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Redmi 9,64,4,2020-06-10,163.3 x 77 x 9.1 mm (6.43 x 3.03 x 0.36 in),198.0,LCD,6.53,Android,True,5020.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Redmi 9,128,4,2020-06-10,163.3 x 77 x 9.1 mm (6.43 x 3.03 x 0.36 in),198.0,LCD,6.53,Android,True,5020.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Redmi 9,64,4,2020-06-10,163.3 x 77 x 9.1 mm (6.43 x 3.03 x 0.36 in),198.0,LCD,6.53,Android,True,5020.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Redmi 9,128,4,2020-06-10,163.3 x 77 x 9.1 mm (6.43 x 3.03 x 0.36 in),198.0,LCD,6.53,Android,True,5020.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Redmi 9,64,4,2020-06-10,163.3 x 77 x 9.1 mm (6.43 x 3.03 x 0.36 in),198.0,LCD,6.53,Android,True,,Octa-Core,2020,395,medium price
+Xiaomi,,128,4,2020-06-10,163.3 x 77 x 9.1 mm (6.43 x 3.03 x 0.36 in),198.0,LCD,6.53,Android,True,5020.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Redmi 9,64,4,2020-06-10,163.3 x 77 x 9.1 mm (6.43 x 3.03 x 0.36 in),198.0,LCD,6.53,Android,True,5020.0,Octa-Core,2020,395,low price
+Xiaomi,Xiaomi Redmi 9,128,4,2020-06-10,163.3 x 77 x 9.1 mm (6.43 x 3.03 x 0.36 in),198.0,LCD,6.53,Android,True,5020.0,Octa-Core,2020,395,medium price
+Samsung,Samsung Galaxy A71 5G,128,8,2020-06-15,162.5 x 75.5 x 8.1 mm (6.40 x 2.97 x 0.32 in),185.0,AMOLED,6.7,Android,True,4500.0,Octa-Core,2020,393,medium price
+Samsung,Samsung Galaxy A71 5G,128,8,2020-06-15,162.5 x 75.5 x 8.1 mm (6.40 x 2.97 x 0.32 in),185.0,AMOLED,6.7,Android,True,4500.0,Octa-Core,2020,393,medium price
+Xiaomi,Xiaomi Redmi 9A,32,3,2020-07-07,164.9 x 77.1 x 9 mm (6.49 x 3.04 x 0.35 in),196.0,LCD,6.53,Android,False,5000.0,Octa-Core,2020,269,low price
+Xiaomi,Xiaomi Redmi 9A,32,3,2020-07-07,164.9 x 77.1 x 9 mm (6.49 x 3.04 x 0.35 in),196.0,LCD,6.53,Android,False,5000.0,Octa-Core,2020,269,medium price
+Xiaomi,Xiaomi Redmi 9A,32,3,2020-07-07,164.9 x 77.1 x 9 mm (6.49 x 3.04 x 0.35 in),196.0,LCD,6.53,Android,False,5000.0,Octa-Core,2020,269,low price
+Xiaomi,Xiaomi Redmi 9A,64,4,2020-07-07,164.9 x 77.1 x 9 mm (6.49 x 3.04 x 0.35 in),196.0,LCD,6.53,Android,False,5000.0,Octa-Core,2020,269,low price
+Xiaomi,Xiaomi Redmi 9A,128,4,2020-07-07,164.9 x 77.1 x 9 mm (6.49 x 3.04 x 0.35 in),196.0,LCD,6.53,Android,False,5000.0,Octa-Core,2020,269,low price
+Xiaomi,Xiaomi Redmi 9C,32,3,2020-08-12,164.9 x 77 x 9 mm (6.49 x 3.03 x 0.35 in),196.0,LCD,6.53,Android,False,5000.0,Octa-Core,2020,269,low price
+Xiaomi,Xiaomi Redmi 9C,64,3,2020-08-12,164.9 x 77 x 9 mm (6.49 x 3.03 x 0.35 in),196.0,LCD,6.53,Android,False,5000.0,Octa-Core,2020,269,medium price
+Xiaomi,Xiaomi Redmi 9C,32,3,2020-08-12,164.9 x 77 x 9 mm (6.49 x 3.03 x 0.35 in),196.0,LCD,6.53,Android,False,5000.0,Octa-Core,2020,269,medium price
+Xiaomi,Xiaomi Redmi 9C,64,3,2020-08-12,164.9 x 77 x 9 mm (6.49 x 3.03 x 0.35 in),196.0,LCD,6.53,Android,False,5000.0,Octa-Core,2020,269,medium price
+Xiaomi,Xiaomi Redmi 9C,64,4,2020-08-12,164.9 x 77 x 9 mm (6.49 x 3.03 x 0.35 in),196.0,LCD,6.53,Android,False,5000.0,Octa-Core,2020,269,low price
+Xiaomi,Xiaomi Redmi 9C,32,3,2020-08-12,164.9 x 77 x 9 mm (6.49 x 3.03 x 0.35 in),196.0,LCD,6.53,Android,False,,Octa-Core,2020,269,low price
+Xiaomi,Xiaomi Redmi 9C,64,3,2020-08-12,164.9 x 77 x 9 mm (6.49 x 3.03 x 0.35 in),196.0,LCD,6.53,Android,False,5000.0,Octa-Core,2020,269,medium price
+Xiaomi,Xiaomi Redmi 9C,64,4,2020-08-12,164.9 x 77 x 9 mm (6.49 x 3.03 x 0.35 in),196.0,LCD,6.53,Android,False,5000.0,Octa-Core,2020,269,medium price
+Xiaomi,Xiaomi Redmi 9C,32,3,2020-08-12,164.9 x 77 x 9 mm (6.49 x 3.03 x 0.35 in),196.0,LCD,6.53,Android,False,5000.0,Octa-Core,2020,269,low price
+Samsung,Samsung Galaxy Note20 5G,256,8,2020-08-21,161.6 x 75.2 x 8.3 mm (6.36 x 2.96 x 0.33 in),192.0,AMOLED,6.7,Android,True,4300.0,Octa-Core,2020,393,medium price
+Samsung,Samsung Galaxy Note20 Ultra 5G,256,8,2020-08-21,164.8 x 77.2 x 8.1 mm (6.49 x 3.04 x 0.32 in),208.0,AMOLED,6.9,Android,True,4500.0,Octa-Core,2020,496,high price
+Samsung,Samsung Galaxy Note20 Ultra 5G,256,12,2020-08-21,164.8 x 77.2 x 8.1 mm (6.49 x 3.04 x 0.32 in),208.0,AMOLED,6.9,Android,True,4500.0,Octa-Core,2020,496,high price
+Samsung,Samsung Galaxy Note20 5G,256,8,2020-08-21,161.6 x 75.2 x 8.3 mm (6.36 x 2.96 x 0.33 in),192.0,AMOLED,6.7,Android,True,4300.0,Octa-Core,2020,393,medium price
+Samsung,Samsung Galaxy Note20 Ultra 5G,256,8,2020-08-21,164.8 x 77.2 x 8.1 mm (6.49 x 3.04 x 0.32 in),208.0,AMOLED,6.9,Android,True,4500.0,Octa-Core,2020,496,medium price
+Samsung,Samsung Galaxy Note20 Ultra 5G,256,12,2020-08-21,164.8 x 77.2 x 8.1 mm (6.49 x 3.04 x 0.32 in),208.0,AMOLED,6.9,Android,True,4500.0,Octa-Core,2020,496,high price
+Samsung,Samsung Galaxy Note20 Ultra 5G,512,12,2020-08-21,164.8 x 77.2 x 8.1 mm (6.49 x 3.04 x 0.32 in),208.0,AMOLED,6.9,Android,True,4500.0,Octa-Core,2020,496,high price
+Samsung,Samsung Galaxy Note20 5G,256,8,2020-08-21,161.6 x 75.2 x 8.3 mm (6.36 x 2.96 x 0.33 in),192.0,AMOLED,6.7,Android,True,4300.0,Octa-Core,2020,393,high price
+Samsung,Samsung Galaxy Note20 Ultra 5G,256,8,2020-08-21,164.8 x 77.2 x 8.1 mm (6.49 x 3.04 x 0.32 in),208.0,AMOLED,6.9,Android,True,4500.0,Octa-Core,2020,496,medium price
+Xiaomi,Xiaomi Poco X3 NFC,128,6,2020-09-08,165.3 x 76.8 x 9.4 mm (6.51 x 3.02 x 0.37 in),215.0,LCD,6.67,Android,True,5160.0,Octa-Core,2020,395,medium price
+Samsung,Samsung Galaxy S20 FE 5G,128,8,2020-10-02,159.8 x 74.5 x 8.4 mm (6.29 x 2.93 x 0.33 in),190.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2020,407,medium price
+Samsung,Samsung Galaxy S20 FE 5G,128,8,2020-10-02,159.8 x 74.5 x 8.4 mm (6.29 x 2.93 x 0.33 in),190.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2020,407,medium price
+Samsung,Samsung Galaxy S20 FE 5G,256,8,2020-10-02,159.8 x 74.5 x 8.4 mm (6.29 x 2.93 x 0.33 in),190.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2020,407,medium price
+Samsung,Samsung Galaxy S20 FE 5G,128,8,2020-10-02,159.8 x 74.5 x 8.4 mm (6.29 x 2.93 x 0.33 in),190.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2020,407,medium price
+Xiaomi,Xiaomi Mi 10T Pro 5G,256,8,2020-10-13,165.1 x 76.4 x 9.3 mm (6.5 x 3.01 x 0.37 in),218.0,LCD,6.67,Android,True,5000.0,Octa-Core,2020,395,medium price
+Xiaomi,,128,8,2020-10-13,165.1 x 76.4 x 9.3 mm (6.5 x 3.01 x 0.37 in),216.0,LCD,6.67,Android,True,5000.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Mi 10T Pro 5G,256,8,2020-10-13,165.1 x 76.4 x 9.3 mm (6.5 x 3.01 x 0.37 in),218.0,LCD,6.67,Android,True,5000.0,Octa-Core,2020,395,medium price
+Apple,,128,4,2020-10-23,146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in),164.0,OLED,6.1,iOS,True,2815.0,Hexa-Core,2020,460,medium price
+Apple,Apple iPhone 12,256,4,2020-10-23,146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in),164.0,OLED,6.1,iOS,True,2815.0,Hexa-Core,2020,460,medium price
+Apple,Apple iPhone 12 Pro,256,6,2020-10-23,146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in),189.0,OLED,6.1,iOS,True,2815.0,Hexa-Core,2020,460,medium price
+Apple,Apple iPhone 12 Pro,512,6,2020-10-23,146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in),189.0,OLED,6.1,iOS,True,2815.0,Hexa-Core,2020,460,medium price
+Apple,Apple iPhone 12,128,4,2020-10-23,146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in),164.0,OLED,6.1,iOS,True,2815.0,Hexa-Core,2020,460,medium price
+Apple,,256,4,2020-10-23,146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in),164.0,OLED,6.1,iOS,True,2815.0,Hexa-Core,2020,460,medium price
+Apple,Apple iPhone 12 Pro,256,6,2020-10-23,146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in),189.0,OLED,6.1,iOS,True,2815.0,Hexa-Core,2020,460,medium price
+Apple,Apple iPhone 12 Pro,512,6,2020-10-23,146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in),189.0,OLED,6.1,iOS,True,2815.0,Hexa-Core,2020,460,medium price
+Apple,Apple iPhone 12,128,4,2020-10-23,146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in),164.0,OLED,6.1,iOS,True,2815.0,Hexa-Core,2020,460,medium price
+Apple,Apple iPhone 12,256,4,2020-10-23,146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in),164.0,OLED,6.1,iOS,True,2815.0,Hexa-Core,2020,460,medium price
+Apple,Apple iPhone 12 Pro,256,6,2020-10-23,146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in),189.0,OLED,6.1,iOS,True,2815.0,Hexa-Core,2020,460,medium price
+Apple,Apple iPhone 12 Pro,512,6,2020-10-23,146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in),189.0,OLED,6.1,iOS,True,2815.0,Hexa-Core,2020,460,medium price
+Samsung,Samsung Galaxy A42 5G,128,6,2020-11-11,164.4 x 75.9 x 8.6 mm (6.47 x 2.99 x 0.34 in),193.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2020,266,medium price
+Samsung,Samsung Galaxy A42 5G,128,6,2020-11-11,164.4 x 75.9 x 8.6 mm (6.47 x 2.99 x 0.34 in),193.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2020,266,medium price
+Samsung,Samsung Galaxy A42 5G,128,6,2020-11-11,164.4 x 75.9 x 8.6 mm (6.47 x 2.99 x 0.34 in),193.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2020,266,medium price
+Apple,Apple iPhone 12 mini,128,4,2020-11-13,131.5 x 64.2 x 7.4 mm (5.18 x 2.53 x 0.29 in),135.0,OLED,5.4,iOS,True,2227.0,Hexa-Core,2020,476,medium price
+Apple,Apple iPhone 12 mini,256,4,2020-11-13,131.5 x 64.2 x 7.4 mm (5.18 x 2.53 x 0.29 in),135.0,OLED,5.4,iOS,True,2227.0,Hexa-Core,2020,476,medium price
+Apple,Apple iPhone 12 Pro Max,256,6,2020-11-13,160.8 x 78.1 x 7.4 mm (6.33 x 3.07 x 0.29 in),228.0,OLED,6.7,iOS,True,3687.0,Hexa-Core,2020,458,high price
+Apple,Apple iPhone 12 Pro Max,512,6,2020-11-13,160.8 x 78.1 x 7.4 mm (6.33 x 3.07 x 0.29 in),228.0,OLED,6.7,iOS,True,3687.0,Hexa-Core,2020,458,high price
+Apple,Apple iPhone 12 mini,128,4,2020-11-13,131.5 x 64.2 x 7.4 mm (5.18 x 2.53 x 0.29 in),135.0,OLED,5.4,iOS,True,2227.0,Hexa-Core,2020,476,medium price
+Apple,Apple iPhone 12 mini,256,4,2020-11-13,131.5 x 64.2 x 7.4 mm (5.18 x 2.53 x 0.29 in),135.0,OLED,5.4,iOS,True,2227.0,Hexa-Core,2020,476,medium price
+Apple,Apple iPhone 12 Pro Max,256,6,2020-11-13,160.8 x 78.1 x 7.4 mm (6.33 x 3.07 x 0.29 in),228.0,OLED,6.7,iOS,True,3687.0,Hexa-Core,2020,458,medium price
+Apple,Apple iPhone 12 Pro Max,512,6,2020-11-13,160.8 x 78.1 x 7.4 mm (6.33 x 3.07 x 0.29 in),228.0,OLED,6.7,iOS,True,3687.0,Hexa-Core,2020,458,high price
+Apple,Apple iPhone 12 mini,128,4,2020-11-13,131.5 x 64.2 x 7.4 mm (5.18 x 2.53 x 0.29 in),135.0,OLED,5.4,iOS,True,2227.0,Hexa-Core,2020,476,medium price
+Apple,Apple iPhone 12 mini,256,4,2020-11-13,131.5 x 64.2 x 7.4 mm (5.18 x 2.53 x 0.29 in),135.0,OLED,5.4,iOS,True,2227.0,Hexa-Core,2020,476,medium price
+Apple,,256,6,2020-11-13,160.8 x 78.1 x 7.4 mm (6.33 x 3.07 x 0.29 in),228.0,OLED,6.7,iOS,True,3687.0,Hexa-Core,2020,458,high price
+Apple,Apple iPhone 12 Pro Max,512,6,2020-11-13,160.8 x 78.1 x 7.4 mm (6.33 x 3.07 x 0.29 in),228.0,OLED,6.7,iOS,True,3687.0,Hexa-Core,2020,458,high price
+Xiaomi,Xiaomi Poco M3,64,6,2020-11-27,162.3 x 77.3 x 9.6 mm (6.39 x 3.04 x 0.38 in),198.0,LCD,6.53,Android,False,6000.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Poco M3,128,4,2020-11-27,162.3 x 77.3 x 9.6 mm (6.39 x 3.04 x 0.38 in),198.0,LCD,6.53,Android,False,6000.0,Octa-Core,2020,395,medium price
+Xiaomi,Xiaomi Poco M3,64,6,2020-11-27,162.3 x 77.3 x 9.6 mm (6.39 x 3.04 x 0.38 in),198.0,LCD,6.53,Android,False,6000.0,Octa-Core,2020,395,medium price
+Samsung,,32,3,2020-12-21,164 x 75.8 x 8.9 mm (6.46 x 2.98 x 0.35 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2020,270,medium price
+Samsung,Samsung Galaxy A12,64,4,2020-12-21,164 x 75.8 x 8.9 mm (6.46 x 2.98 x 0.35 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2020,270,medium price
+Samsung,Samsung Galaxy A12,128,3,2020-12-21,164 x 75.8 x 8.9 mm (6.46 x 2.98 x 0.35 in),205.0,LCD,6.5,Android,True,,Octa-Core,2020,270,medium price
+Samsung,Samsung Galaxy A12,32,3,2020-12-21,164 x 75.8 x 8.9 mm (6.46 x 2.98 x 0.35 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2020,270,low price
+Samsung,Samsung Galaxy A12,64,4,2020-12-21,164 x 75.8 x 8.9 mm (6.46 x 2.98 x 0.35 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2020,270,medium price
+Samsung,Samsung Galaxy A12,128,3,2020-12-21,164 x 75.8 x 8.9 mm (6.46 x 2.98 x 0.35 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2020,270,medium price
+Samsung,Samsung Galaxy A12,32,3,2020-12-21,164 x 75.8 x 8.9 mm (6.46 x 2.98 x 0.35 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2020,270,medium price
+Samsung,Samsung Galaxy A12,64,4,2020-12-21,164 x 75.8 x 8.9 mm (6.46 x 2.98 x 0.35 in),205.0,LCD,6.5,Android,True,,Octa-Core,2020,270,low price
+Samsung,Samsung Galaxy A12,128,3,2020-12-21,164 x 75.8 x 8.9 mm (6.46 x 2.98 x 0.35 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2020,270,medium price
+Xiaomi,Xiaomi Mi 11,128,8,2021-01-01,164.3 x 74.6 x 8.1 mm (Glass) / 8.6 mm (Leather),196.0,AMOLED,6.81,Android,True,4600.0,Octa-Core,2021,515,medium price
+Xiaomi,Xiaomi Mi 11,128,8,2021-01-01,164.3 x 74.6 x 8.1 mm (Glass) / 8.6 mm (Leather),196.0,AMOLED,6.81,Android,True,4600.0,Octa-Core,2021,515,medium price
+Samsung,Samsung Galaxy A02s,32,2,2021-01-04,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,False,5000.0,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy A02s,32,2,2021-01-04,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,False,5000.0,Octa-Core,2021,270,low price
+Samsung,Samsung Galaxy A02s,32,2,2021-01-04,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,False,5000.0,Octa-Core,2021,270,low price
+Xiaomi,Xiaomi Redmi Note 9T,128,4,2021-01-18,161.2 x 77.3 x 9.1 mm (6.35 x 3.04 x 0.36 in),199.0,LCD,6.53,Android,True,5000.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi Note 9T,128,6,2021-01-18,161.2 x 77.3 x 9.1 mm (6.35 x 3.04 x 0.36 in),199.0,LCD,6.53,Android,True,5000.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi 9T,128,4,2021-01-18,162.3 x 77.3 x 9.6 mm (6.39 x 3.04 x 0.38 in),198.0,LCD,6.53,Android,True,6000.0,Octa-Core,2021,395,low price
+Xiaomi,Xiaomi Redmi Note 9T,128,4,2021-01-18,161.2 x 77.3 x 9.1 mm (6.35 x 3.04 x 0.36 in),199.0,LCD,6.53,Android,True,5000.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi Note 9T,128,6,2021-01-18,161.2 x 77.3 x 9.1 mm (6.35 x 3.04 x 0.36 in),199.0,LCD,6.53,Android,True,5000.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi 9T,128,4,2021-01-18,162.3 x 77.3 x 9.6 mm (6.39 x 3.04 x 0.38 in),198.0,LCD,6.53,Android,True,6000.0,Octa-Core,2021,395,low price
+Samsung,Samsung Galaxy A32 5G,128,4,2021-01-22,164.2 x 76.1 x 9.1 mm (6.46 x 3.00 x 0.36 in),205.0,LCD,6.5,Android,True,,Octa-Core,2021,270,low price
+Samsung,Samsung Galaxy A32 5G,128,6,2021-01-22,164.2 x 76.1 x 9.1 mm (6.46 x 3.00 x 0.36 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy A32 5G,128,4,2021-01-22,164.2 x 76.1 x 9.1 mm (6.46 x 3.00 x 0.36 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,low price
+Samsung,Samsung Galaxy A32 5G,128,6,2021-01-22,164.2 x 76.1 x 9.1 mm (6.46 x 3.00 x 0.36 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,
+Samsung,Samsung Galaxy A32 5G,128,4,2021-01-22,164.2 x 76.1 x 9.1 mm (6.46 x 3.00 x 0.36 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy A32 5G,128,6,2021-01-22,164.2 x 76.1 x 9.1 mm (6.46 x 3.00 x 0.36 in),205.0,LCD,6.5,Android,True,,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy A32 5G,128,8,2021-01-22,164.2 x 76.1 x 9.1 mm (6.46 x 3.00 x 0.36 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy A02,32,3,2021-01-27,164 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),206.0,LCD,6.5,Android,False,5000.0,Quad-Core,2021,270,medium price
+Samsung,Samsung Galaxy A02,32,4,2021-01-27,164 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),206.0,LCD,6.5,Android,False,,Quad-Core,2021,270,medium price
+Samsung,Samsung Galaxy A02,32,3,2021-01-27,164 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),206.0,LCD,6.5,Android,False,5000.0,Quad-Core,2021,270,low price
+Samsung,Samsung Galaxy A02,32,4,2021-01-27,164 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),206.0,LCD,6.5,Android,False,5000.0,Quad-Core,2021,270,low price
+Samsung,Samsung Galaxy A02,32,3,2021-01-27,164 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),206.0,LCD,6.5,Android,False,5000.0,Quad-Core,2021,270,medium price
+Samsung,Samsung Galaxy A02,32,3,2021-01-27,164 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),206.0,LCD,6.5,Android,False,5000.0,Quad-Core,2021,270,medium price
+Samsung,Samsung Galaxy S21 5G,256,8,2021-01-29,151.7 x 71.2 x 7.9 mm (5.97 x 2.80 x 0.31 in),169.0,AMOLED,6.2,Android,True,4000.0,Octa-Core,2021,421,medium price
+Samsung,Samsung Galaxy S21+ 5G,256,8,2021-01-29,161.5 x 75.6 x 7.8 mm (6.36 x 2.98 x 0.31 in),200.0,AMOLED,6.7,Android,True,4800.0,Octa-Core,2021,394,medium price
+Samsung,Samsung Galaxy S21 Ultra 5G,256,12,2021-01-29,165.1 x 75.6 x 8.9 mm (6.5 x 2.98 x 0.35 in),227.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2021,515,medium price
+Samsung,Samsung Galaxy S21 Ultra 5G,512,12,2021-01-29,165.1 x 75.6 x 8.9 mm (6.5 x 2.98 x 0.35 in),227.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2021,515,medium price
+Samsung,Samsung Galaxy S21 Ultra 5G,512,16,2021-01-29,165.1 x 75.6 x 8.9 mm (6.5 x 2.98 x 0.35 in),227.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2021,515,high price
+Samsung,Samsung Galaxy S21 5G,256,8,2021-01-29,151.7 x 71.2 x 7.9 mm (5.97 x 2.80 x 0.31 in),169.0,AMOLED,6.2,Android,True,4000.0,Octa-Core,2021,421,medium price
+Samsung,Samsung Galaxy S21+ 5G,256,8,2021-01-29,161.5 x 75.6 x 7.8 mm (6.36 x 2.98 x 0.31 in),200.0,AMOLED,6.7,Android,True,4800.0,Octa-Core,2021,394,medium price
+Samsung,Samsung Galaxy S21+ 5G,256,8,2021-01-29,161.5 x 75.6 x 7.8 mm (6.36 x 2.98 x 0.31 in),200.0,AMOLED,6.7,Android,True,4800.0,Octa-Core,2021,394,high price
+Samsung,Samsung Galaxy S21+ 5G,256,8,2021-01-29,161.5 x 75.6 x 7.8 mm (6.36 x 2.98 x 0.31 in),200.0,AMOLED,6.7,Android,True,4800.0,Octa-Core,2021,394,high price
+Samsung,Samsung Galaxy S21 Ultra 5G,256,12,2021-01-29,165.1 x 75.6 x 8.9 mm (6.5 x 2.98 x 0.35 in),227.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2021,515,medium price
+Samsung,Samsung Galaxy S21 Ultra 5G,512,12,2021-01-29,165.1 x 75.6 x 8.9 mm (6.5 x 2.98 x 0.35 in),227.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2021,515,medium price
+Samsung,Samsung Galaxy S21 Ultra 5G,512,16,2021-01-29,165.1 x 75.6 x 8.9 mm (6.5 x 2.98 x 0.35 in),227.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2021,515,high price
+Samsung,Samsung Galaxy S21 5G,256,8,2021-01-29,151.7 x 71.2 x 7.9 mm (5.97 x 2.80 x 0.31 in),169.0,AMOLED,6.2,Android,True,4000.0,Octa-Core,2021,421,medium price
+Samsung,Samsung Galaxy S21+ 5G,256,8,2021-01-29,161.5 x 75.6 x 7.8 mm (6.36 x 2.98 x 0.31 in),200.0,AMOLED,6.7,Android,True,4800.0,Octa-Core,2021,394,medium price
+Samsung,Samsung Galaxy S21 Ultra 5G,256,12,2021-01-29,165.1 x 75.6 x 8.9 mm (6.5 x 2.98 x 0.35 in),227.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2021,515,medium price
+Samsung,Samsung Galaxy S21 Ultra 5G,512,12,2021-01-29,165.1 x 75.6 x 8.9 mm (6.5 x 2.98 x 0.35 in),227.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2021,515,medium price
+Samsung,Samsung Galaxy A32,128,4,2021-02-25,158.9 x 73.6 x 8.4 mm (6.26 x 2.90 x 0.33 in),184.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2021,411,medium price
+Samsung,Samsung Galaxy A32,128,4,2021-02-25,158.9 x 73.6 x 8.4 mm (6.26 x 2.90 x 0.33 in),184.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2021,411,medium price
+Samsung,,128,6,2021-02-25,158.9 x 73.6 x 8.4 mm (6.26 x 2.90 x 0.33 in),184.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2021,411,medium price
+Samsung,Samsung Galaxy A32,128,4,2021-02-25,158.9 x 73.6 x 8.4 mm (6.26 x 2.90 x 0.33 in),184.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2021,411,medium price
+Xiaomi,Xiaomi Redmi Note 10,128,4,2021-03-16,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,False,5000.0,Octa-Core,2021,409,low price
+Xiaomi,Xiaomi Redmi Note 10,128,6,2021-03-16,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,False,5000.0,Octa-Core,2021,409,low price
+Samsung,Samsung Galaxy A52 5G,128,8,2021-03-19,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,407,medium price
+Samsung,Samsung Galaxy A52 5G,256,8,2021-03-19,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,407,medium price
+Samsung,Samsung Galaxy A52 5G,128,8,2021-03-19,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,407,medium price
+Samsung,Samsung Galaxy A52 5G,128,8,2021-03-19,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,407,medium price
+Xiaomi,Xiaomi Poco X3 Pro,128,8,2021-03-24,165.3 x 76.8 x 9.4 mm (6.51 x 3.02 x 0.37 in),215.0,LCD,6.67,Android,True,5160.0,Octa-Core,2021,395,medium price
+Xiaomi,,128,6,2021-03-24,164 x 76.5 x 8.1 mm (6.46 x 3.01 x 0.32 in),193.0,AMOLED,6.67,Android,True,5020.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi Note 10 Pro,128,8,2021-03-24,164 x 76.5 x 8.1 mm (6.46 x 3.01 x 0.32 in),193.0,AMOLED,6.67,Android,True,5020.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi Note 10 Pro,256,8,2021-03-24,164 x 76.5 x 8.1 mm (6.46 x 3.01 x 0.32 in),193.0,AMOLED,6.67,Android,True,5020.0,Octa-Core,2021,395,
+Xiaomi,Xiaomi Poco X3 Pro,128,8,2021-03-24,165.3 x 76.8 x 9.4 mm (6.51 x 3.02 x 0.37 in),215.0,LCD,6.67,Android,True,5160.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Poco X3 Pro,128,8,2021-03-24,165.3 x 76.8 x 9.4 mm (6.51 x 3.02 x 0.37 in),215.0,LCD,6.67,Android,True,5160.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi Note 10 Pro,128,6,2021-03-24,164 x 76.5 x 8.1 mm (6.46 x 3.01 x 0.32 in),193.0,AMOLED,6.67,Android,True,5020.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi Note 10 Pro,128,8,2021-03-24,164 x 76.5 x 8.1 mm (6.46 x 3.01 x 0.32 in),193.0,AMOLED,6.67,Android,True,5020.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi Note 10 Pro,256,8,2021-03-24,164 x 76.5 x 8.1 mm (6.46 x 3.01 x 0.32 in),193.0,AMOLED,6.67,Android,True,5020.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi Note 10 Pro,128,6,2021-03-24,164 x 76.5 x 8.1 mm (6.46 x 3.01 x 0.32 in),193.0,AMOLED,6.67,Android,True,5020.0,Octa-Core,2021,395,medium price
+Samsung,Samsung Galaxy A52,128,6,2021-03-26,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,407,medium price
+Samsung,Samsung Galaxy A52,128,8,2021-03-26,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,407,medium price
+Samsung,Samsung Galaxy A52,256,6,2021-03-26,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,407,
+Samsung,Samsung Galaxy A72,128,8,2021-03-26,165 x 77.4 x 8.4 mm (6.50 x 3.05 x 0.33 in),203.0,AMOLED,6.7,Android,True,5000.0,Octa-Core,2021,394,medium price
+Samsung,Samsung Galaxy A72,256,6,2021-03-26,165 x 77.4 x 8.4 mm (6.50 x 3.05 x 0.33 in),203.0,AMOLED,6.7,Android,True,5000.0,Octa-Core,2021,394,medium price
+Samsung,Samsung Galaxy A52,128,6,2021-03-26,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,407,medium price
+Samsung,Samsung Galaxy A52,128,8,2021-03-26,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,407,medium price
+Samsung,Samsung Galaxy A72,128,8,2021-03-26,165 x 77.4 x 8.4 mm (6.50 x 3.05 x 0.33 in),203.0,AMOLED,6.7,Android,True,5000.0,Octa-Core,2021,394,high price
+Samsung,Samsung Galaxy A72,256,6,2021-03-26,165 x 77.4 x 8.4 mm (6.50 x 3.05 x 0.33 in),203.0,AMOLED,6.7,Android,True,5000.0,Octa-Core,2021,394,high price
+Samsung,Samsung Galaxy A52,128,6,2021-03-26,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,407,medium price
+Samsung,Samsung Galaxy A52,128,8,2021-03-26,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,407,medium price
+Samsung,Samsung Galaxy A52,256,6,2021-03-26,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,407,high price
+Samsung,Samsung Galaxy A72,128,8,2021-03-26,165 x 77.4 x 8.4 mm (6.50 x 3.05 x 0.33 in),203.0,AMOLED,6.7,Android,True,5000.0,Octa-Core,2021,394,medium price
+Samsung,Samsung Galaxy A72,256,6,2021-03-26,165 x 77.4 x 8.4 mm (6.50 x 3.05 x 0.33 in),203.0,AMOLED,6.7,Android,True,5000.0,Octa-Core,2021,394,high price
+Xiaomi,Xiaomi Poco F3,128,8,2021-03-27,163.7 x 76.4 x 7.8 mm (6.44 x 3.01 x 0.31 in),196.0,AMOLED,6.67,Android,True,4520.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Poco F3,128,8,2021-03-27,163.7 x 76.4 x 7.8 mm (6.44 x 3.01 x 0.31 in),196.0,AMOLED,6.67,Android,True,4520.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Mi 11 Pro,256,8,2021-04-02,164.3 x 74.6 x 8.5 mm (6.47 x 2.94 x 0.33 in),208.0,AMOLED,6.81,Android,True,5000.0,Octa-Core,2021,515,medium price
+Xiaomi,Xiaomi Mi 11 Lite,128,6,2021-04-16,160.5 x 75.7 x 6.8 mm (6.32 x 2.98 x 0.27 in),157.0,AMOLED,6.55,Android,True,4250.0,Octa-Core,2021,402,medium price
+Xiaomi,Xiaomi Mi 11 Lite,128,8,2021-04-16,160.5 x 75.7 x 6.8 mm (6.32 x 2.98 x 0.27 in),157.0,AMOLED,6.55,Android,True,4250.0,Octa-Core,2021,402,medium price
+Xiaomi,Xiaomi Mi 11 Lite 5G,128,6,2021-04-16,160.5 x 75.7 x 6.8 mm (6.32 x 2.98 x 0.27 in),159.0,AMOLED,6.55,Android,True,4250.0,Octa-Core,2021,402,medium price
+Xiaomi,Xiaomi Mi 11 Lite 5G,128,8,2021-04-16,160.5 x 75.7 x 6.8 mm (6.32 x 2.98 x 0.27 in),159.0,AMOLED,6.55,Android,True,4250.0,Octa-Core,2021,402,medium price
+Xiaomi,Xiaomi Mi 11 Lite,128,6,2021-04-16,160.5 x 75.7 x 6.8 mm (6.32 x 2.98 x 0.27 in),157.0,AMOLED,6.55,Android,True,4250.0,Octa-Core,2021,402,medium price
+Xiaomi,Xiaomi Mi 11 Lite 5G,128,6,2021-04-16,160.5 x 75.7 x 6.8 mm (6.32 x 2.98 x 0.27 in),159.0,AMOLED,6.55,Android,True,4250.0,Octa-Core,2021,402,medium price
+Xiaomi,Xiaomi Mi 11 Lite 5G,128,6,2021-04-16,160.5 x 75.7 x 6.8 mm (6.32 x 2.98 x 0.27 in),159.0,AMOLED,6.55,Android,True,4250.0,Octa-Core,2021,402,medium price
+Xiaomi,Xiaomi Mi 11 Lite 5G,128,8,2021-04-16,160.5 x 75.7 x 6.8 mm (6.32 x 2.98 x 0.27 in),159.0,AMOLED,6.55,Android,True,4250.0,Octa-Core,2021,402,medium price
+Xiaomi,Xiaomi Redmi Note 10 5G,128,4,2021-04-28,161.8 x 75.3 x 8.9 mm (6.37 x 2.96 x 0.35 in),190.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,405,low price
+Xiaomi,Xiaomi Redmi Note 10 5G,128,6,2021-04-28,161.8 x 75.3 x 8.9 mm (6.37 x 2.96 x 0.35 in),190.0,LCD,6.5,Android,True,,Octa-Core,2021,405,medium price
+Xiaomi,Xiaomi Redmi Note 10 5G,128,8,2021-04-28,161.8 x 75.3 x 8.9 mm (6.37 x 2.96 x 0.35 in),190.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,405,medium price
+Xiaomi,Xiaomi Redmi Note 10S,128,4,2021-04-28,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,,Octa-Core,2021,409,medium price
+Xiaomi,Xiaomi Redmi Note 10S,128,6,2021-04-28,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2021,409,medium price
+Xiaomi,Xiaomi Redmi Note 10S,128,4,2021-04-28,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2021,409,medium price
+Xiaomi,Xiaomi Redmi Note 10 5G,128,4,2021-04-28,161.8 x 75.3 x 8.9 mm (6.37 x 2.96 x 0.35 in),190.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,405,medium price
+Xiaomi,Xiaomi Redmi Note 10 5G,128,6,2021-04-28,161.8 x 75.3 x 8.9 mm (6.37 x 2.96 x 0.35 in),190.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,405,medium price
+Xiaomi,Xiaomi Redmi Note 10S,128,4,2021-04-28,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2021,409,medium price
+Xiaomi,Xiaomi Redmi Note 10S,128,6,2021-04-28,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2021,409,medium price
+Xiaomi,Xiaomi Redmi Note 10S,128,4,2021-04-28,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2021,409,medium price
+Xiaomi,Xiaomi Redmi Note 10S,128,6,2021-04-28,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2021,409,medium price
+Samsung,Samsung Galaxy M12,32,4,2021-04-30,164 x 75.9 x 9.7 mm (6.46 x 2.99 x 0.38 in),212.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Samsung,,32,4,2021-04-30,164 x 75.9 x 9.7 mm (6.46 x 2.99 x 0.38 in),212.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy M12,32,4,2021-04-30,164 x 75.9 x 9.7 mm (6.46 x 2.99 x 0.38 in),212.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy M12,64,4,2021-04-30,164 x 75.9 x 9.7 mm (6.46 x 2.99 x 0.38 in),212.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Xiaomi,Xiaomi Poco M3 Pro 5G,128,6,2021-05-22,161.8 x 75.3 x 8.9 mm (6.37 x 2.96 x 0.35 in),190.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,405,medium price
+Xiaomi,Xiaomi Poco M3 Pro 5G,128,6,2021-05-22,161.8 x 75.3 x 8.9 mm (6.37 x 2.96 x 0.35 in),190.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,405,medium price
+Samsung,Samsung Galaxy Tab A7 Lite,32,3,2021-06-18,212.5 x 124.7 x 8 mm (8.37 x 4.91 x 0.31 in),366.0,LCD,8.7,Android,False,5100.0,Octa-Core,2021,179,low price
+Samsung,Samsung Galaxy A22 5G,128,4,2021-06-24,167.2 x 76.4 x 9 mm (6.58 x 3.01 x 0.35 in),203.0,LCD,6.6,Android,True,5000.0,Octa-Core,2021,399,low price
+Samsung,Samsung Galaxy A22 5G,128,6,2021-06-24,167.2 x 76.4 x 9 mm (6.58 x 3.01 x 0.35 in),203.0,LCD,6.6,Android,True,5000.0,Octa-Core,2021,399,medium price
+Samsung,Samsung Galaxy A22 5G,128,4,2021-06-24,167.2 x 76.4 x 9 mm (6.58 x 3.01 x 0.35 in),203.0,LCD,6.6,Android,True,5000.0,Octa-Core,2021,399,medium price
+Samsung,,128,4,2021-06-24,167.2 x 76.4 x 9 mm (6.58 x 3.01 x 0.35 in),203.0,LCD,6.6,Android,True,5000.0,Octa-Core,2021,399,low price
+Samsung,Samsung Galaxy M32,128,6,2021-06-28,159.3 x 74 x 8.4 mm (Global) or 9.3 mm (India),180.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2021,411,medium price
+Samsung,Samsung Galaxy M32,128,6,2021-06-28,159.3 x 74 x 8.4 mm (Global) or 9.3 mm (India),180.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2021,411,high price
+Samsung,Samsung Galaxy A22,128,4,2021-07-01,159.3 x 73.6 x 8.4 mm (6.27 x 2.90 x 0.33 in),186.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2021,274,medium price
+Samsung,Samsung Galaxy A22,128,6,2021-07-01,159.3 x 73.6 x 8.4 mm (6.27 x 2.90 x 0.33 in),186.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2021,274,medium price
+Samsung,Samsung Galaxy A22,128,4,2021-07-01,159.3 x 73.6 x 8.4 mm (6.27 x 2.90 x 0.33 in),186.0,AMOLED,6.4,Android,True,,Octa-Core,2021,274,medium price
+Samsung,Samsung Galaxy A12 Nacho,32,4,2021-08-09,164 x 75.8 x 8.9 mm (6.46 x 2.98 x 0.35 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy A12 Nacho,32,4,2021-08-09,164 x 75.8 x 8.9 mm (6.46 x 2.98 x 0.35 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy A12 Nacho,32,4,2021-08-09,164 x 75.8 x 8.9 mm (6.46 x 2.98 x 0.35 in),205.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy A03s,32,3,2021-08-18,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,low price
+Samsung,Samsung Galaxy A03s,32,4,2021-08-18,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy A03s,64,4,2021-08-18,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy A03s,32,3,2021-08-18,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,low price
+Samsung,Samsung Galaxy A03s,32,4,2021-08-18,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy A03s,32,3,2021-08-18,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy A03s,32,3,2021-08-18,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,True,,Octa-Core,2021,270,low price
+Samsung,Samsung Galaxy A03s,32,4,2021-08-18,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Xiaomi,Xiaomi Poco X3 GT,256,8,2021-08-19,163.3 x 75.9 x 8.9 mm (6.43 x 2.99 x 0.35 in),193.0,LCD,6.6,Android,True,5000.0,Octa-Core,2021,399,medium price
+Xiaomi,Xiaomi Redmi 10,128,4,2021-08-20,162 x 75.5 x 8.9 mm (6.38 x 2.97 x 0.35 in),181.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,405,low price
+Xiaomi,Xiaomi Redmi 10,128,6,2021-08-20,162 x 75.5 x 8.9 mm (6.38 x 2.97 x 0.35 in),181.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,405,medium price
+Xiaomi,Xiaomi Redmi 10,128,4,2021-08-20,162 x 75.5 x 8.9 mm (6.38 x 2.97 x 0.35 in),181.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,405,low price
+Xiaomi,Xiaomi Redmi 10,128,6,2021-08-20,162 x 75.5 x 8.9 mm (6.38 x 2.97 x 0.35 in),181.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,405,medium price
+Samsung,Samsung Galaxy Z Fold3 5G,512,12,2021-08-27,158.2 x 128.1 x 6.4 mm,271.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2021,374,medium price
+Samsung,Samsung Galaxy Z Flip3 5G,256,8,2021-08-27,166 x 72.2 x 6.9 mm,183.0,AMOLED,6.7,Android,True,3300.0,Octa-Core,2021,426,medium price
+Samsung,,512,12,2021-08-27,158.2 x 128.1 x 6.4 mm,271.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2021,374,medium price
+Samsung,Samsung Galaxy Z Fold3 5G,512,12,2021-08-27,158.2 x 128.1 x 6.4 mm,271.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2021,374,high price
+Samsung,Samsung Galaxy Z Flip3 5G,256,8,2021-08-27,166 x 72.2 x 6.9 mm,183.0,AMOLED,6.7,Android,True,3300.0,Octa-Core,2021,426,medium price
+Samsung,Samsung Galaxy Z Flip3 5G,256,8,2021-08-27,166 x 72.2 x 6.9 mm,183.0,AMOLED,6.7,Android,True,3300.0,Octa-Core,2021,426,high price
+Samsung,Samsung Galaxy Z Fold3 5G,512,12,2021-08-27,158.2 x 128.1 x 6.4 mm,271.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2021,374,medium price
+Samsung,Samsung Galaxy Z Flip3 5G,256,8,2021-08-27,166 x 72.2 x 6.9 mm,183.0,AMOLED,6.7,Android,True,3300.0,Octa-Core,2021,426,medium price
+Samsung,Samsung Galaxy A52s 5G,128,6,2021-09-01,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,405,medium price
+Samsung,,128,6,2021-09-01,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,405,medium price
+Samsung,Samsung Galaxy A52s 5G,128,6,2021-09-01,159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in),189.0,AMOLED,6.5,Android,True,4500.0,Octa-Core,2021,405,medium price
+Apple,Apple iPhone 13 mini,256,4,2021-09-24,131.5 x 64.2 x 7.7 mm (5.18 x 2.53 x 0.30 in),141.0,OLED,5.4,iOS,True,2438.0,Hexa-Core,2021,476,medium price
+Apple,Apple iPhone 13 mini,512,4,2021-09-24,131.5 x 64.2 x 7.7 mm (5.18 x 2.53 x 0.30 in),141.0,OLED,5.4,iOS,True,2438.0,Hexa-Core,2021,476,medium price
+Apple,Apple iPhone 13 Pro Max,256,6,2021-09-24,160.8 x 78.1 x 7.7 mm (6.33 x 3.07 x 0.30 in),240.0,OLED,6.7,iOS,True,4352.0,Hexa-Core,2021,458,high price
+Apple,Apple iPhone 13 Pro Max,512,6,2021-09-24,160.8 x 78.1 x 7.7 mm (6.33 x 3.07 x 0.30 in),240.0,OLED,6.7,iOS,True,4352.0,Hexa-Core,2021,458,high price
+Apple,Apple iPhone 13 Pro Max,1000,6,2021-09-24,160.8 x 78.1 x 7.7 mm (6.33 x 3.07 x 0.30 in),240.0,OLED,6.7,iOS,True,4352.0,Hexa-Core,2021,458,high price
+Apple,Apple iPhone 13,256,4,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),174.0,OLED,6.1,iOS,True,3240.0,Hexa-Core,2021,460,medium price
+Apple,Apple iPhone 13,512,4,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),174.0,OLED,6.1,iOS,True,3240.0,Hexa-Core,2021,460,medium price
+Apple,Apple iPhone 13 Pro,256,6,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),204.0,OLED,6.1,iOS,True,3095.0,Hexa-Core,2021,460,high price
+Apple,Apple iPhone 13 Pro,512,6,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),204.0,OLED,6.1,iOS,True,3095.0,Hexa-Core,2021,460,high price
+Apple,Apple iPhone 13 Pro,1000,6,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),204.0,OLED,6.1,iOS,True,3095.0,Hexa-Core,2021,460,high price
+Apple,Apple iPhone 13 mini,256,4,2021-09-24,131.5 x 64.2 x 7.7 mm (5.18 x 2.53 x 0.30 in),141.0,OLED,5.4,iOS,True,2438.0,Hexa-Core,2021,476,medium price
+Apple,Apple iPhone 13 mini,512,4,2021-09-24,131.5 x 64.2 x 7.7 mm (5.18 x 2.53 x 0.30 in),141.0,OLED,5.4,iOS,True,2438.0,Hexa-Core,2021,476,medium price
+Apple,Apple iPhone 13 Pro Max,256,6,2021-09-24,160.8 x 78.1 x 7.7 mm (6.33 x 3.07 x 0.30 in),240.0,OLED,6.7,iOS,True,4352.0,Hexa-Core,2021,458,medium price
+Apple,Apple iPhone 13 Pro Max,512,6,2021-09-24,160.8 x 78.1 x 7.7 mm (6.33 x 3.07 x 0.30 in),240.0,OLED,6.7,iOS,True,4352.0,Hexa-Core,2021,458,high price
+Apple,Apple iPhone 13 Pro Max,1000,6,2021-09-24,160.8 x 78.1 x 7.7 mm (6.33 x 3.07 x 0.30 in),240.0,OLED,6.7,iOS,True,4352.0,Hexa-Core,2021,458,high price
+Apple,Apple iPhone 13,256,4,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),174.0,OLED,6.1,iOS,True,3240.0,Hexa-Core,2021,460,medium price
+Apple,Apple iPhone 13,512,4,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),174.0,OLED,6.1,iOS,True,3240.0,Hexa-Core,2021,460,medium price
+Apple,Apple iPhone 13 Pro,256,6,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),204.0,OLED,6.1,iOS,True,3095.0,Hexa-Core,2021,460,medium price
+Apple,Apple iPhone 13 Pro,512,6,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),204.0,OLED,6.1,iOS,True,3095.0,Hexa-Core,2021,460,medium price
+Apple,Apple iPhone 13 Pro,1000,6,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),204.0,OLED,6.1,iOS,True,3095.0,Hexa-Core,2021,460,high price
+Apple,Apple iPhone 13 mini,256,4,2021-09-24,131.5 x 64.2 x 7.7 mm (5.18 x 2.53 x 0.30 in),141.0,OLED,5.4,iOS,True,2438.0,Hexa-Core,2021,476,
+Apple,Apple iPhone 13 mini,512,4,2021-09-24,131.5 x 64.2 x 7.7 mm (5.18 x 2.53 x 0.30 in),141.0,OLED,5.4,iOS,True,2438.0,Hexa-Core,2021,476,medium price
+Apple,Apple iPhone 13 Pro Max,256,6,2021-09-24,160.8 x 78.1 x 7.7 mm (6.33 x 3.07 x 0.30 in),240.0,OLED,6.7,iOS,True,4352.0,Hexa-Core,2021,458,high price
+Apple,Apple iPhone 13 Pro Max,512,6,2021-09-24,160.8 x 78.1 x 7.7 mm (6.33 x 3.07 x 0.30 in),240.0,OLED,6.7,iOS,True,4352.0,Hexa-Core,2021,458,high price
+Apple,Apple iPhone 13 Pro Max,1000,6,2021-09-24,160.8 x 78.1 x 7.7 mm (6.33 x 3.07 x 0.30 in),240.0,OLED,6.7,iOS,True,4352.0,Hexa-Core,2021,458,high price
+Apple,Apple iPhone 13,256,4,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),174.0,OLED,6.1,iOS,True,3240.0,Hexa-Core,2021,460,medium price
+Apple,Apple iPhone 13,512,4,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),174.0,OLED,6.1,iOS,True,3240.0,Hexa-Core,2021,460,medium price
+Apple,Apple iPhone 13 Pro,256,6,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),204.0,OLED,6.1,iOS,True,3095.0,Hexa-Core,2021,460,medium price
+Apple,Apple iPhone 13 Pro,512,6,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),204.0,OLED,6.1,iOS,True,3095.0,Hexa-Core,2021,460,high price
+Apple,Apple iPhone 13 Pro,1000,6,2021-09-24,146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in),204.0,OLED,6.1,iOS,True,3095.0,Hexa-Core,2021,460,high price
+Xiaomi,Xiaomi 11 Lite 5G NE,128,8,2021-10-02,160.5 x 75.7 x 6.8 mm (6.32 x 2.98 x 0.27 in),158.0,AMOLED,6.55,Android,True,4250.0,Octa-Core,2021,402,medium price
+Xiaomi,Xiaomi 11 Lite 5G NE,128,8,2021-10-02,160.5 x 75.7 x 6.8 mm (6.32 x 2.98 x 0.27 in),158.0,AMOLED,6.55,Android,True,4250.0,Octa-Core,2021,402,medium price
+Xiaomi,,256,8,2021-10-02,160.5 x 75.7 x 6.8 mm (6.32 x 2.98 x 0.27 in),158.0,AMOLED,6.55,Android,True,,Octa-Core,2021,402,medium price
+Xiaomi,Xiaomi 11 Lite 5G NE,128,8,2021-10-02,160.5 x 75.7 x 6.8 mm (6.32 x 2.98 x 0.27 in),158.0,AMOLED,6.55,Android,True,4250.0,Octa-Core,2021,402,medium price
+Samsung,Samsung Galaxy M52 5G,128,8,2021-10-03,164.2 x 76.4 x 7.4 mm (6.46 x 3.01 x 0.29 in),173.0,AMOLED,6.7,Android,True,5000.0,Octa-Core,2021,393,medium price
+Xiaomi,Xiaomi 11T Pro,256,8,2021-10-05,164.1 x 76.9 x 8.8 mm (6.46 x 3.03 x 0.35 in),204.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi 11T Pro,256,12,2021-10-05,164.1 x 76.9 x 8.8 mm (6.46 x 3.03 x 0.35 in),204.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi 11T,256,8,2021-10-05,164.1 x 76.9 x 8.8 mm (6.46 x 3.03 x 0.35 in),203.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi 11T Pro,256,8,2021-10-05,164.1 x 76.9 x 8.8 mm (6.46 x 3.03 x 0.35 in),204.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi 11T Pro,256,12,2021-10-05,164.1 x 76.9 x 8.8 mm (6.46 x 3.03 x 0.35 in),204.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi 11T,256,8,2021-10-05,164.1 x 76.9 x 8.8 mm (6.46 x 3.03 x 0.35 in),203.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,128,8,2021-11-01,163.7 x 76.2 x 8.3 mm (6.44 x 3.00 x 0.33 in),204.0,AMOLED,6.67,Android,True,4500.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,256,8,2021-11-01,163.7 x 76.2 x 8.3 mm (6.44 x 3.00 x 0.33 in),204.0,AMOLED,6.67,Android,True,4500.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,128,8,2021-11-01,163.7 x 76.2 x 8.3 mm (6.44 x 3.00 x 0.33 in),204.0,AMOLED,6.67,Android,True,4500.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,256,8,2021-11-01,163.7 x 76.2 x 8.3 mm (6.44 x 3.00 x 0.33 in),204.0,AMOLED,6.67,Android,True,4500.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,128,8,2021-11-01,163.7 x 76.2 x 8.3 mm (6.44 x 3.00 x 0.33 in),204.0,AMOLED,6.67,Android,True,4500.0,Octa-Core,2021,395,medium price
+Xiaomi,Xiaomi Poco M4 Pro 5G,64,6,2021-11-11,163.6 x 75.8 x 8.8 mm (6.44 x 2.98 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2021,399,medium price
+Xiaomi,Xiaomi Poco M4 Pro 5G,128,6,2021-11-11,163.6 x 75.8 x 8.8 mm (6.44 x 2.98 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2021,399,medium price
+Xiaomi,Xiaomi Poco M4 Pro 5G,64,6,2021-11-11,163.6 x 75.8 x 8.8 mm (6.44 x 2.98 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2021,399,medium price
+Xiaomi,Xiaomi Poco M4 Pro 5G,128,6,2021-11-11,163.6 x 75.8 x 8.8 mm (6.44 x 2.98 x 0.35 in),195.0,LCD,6.6,Android,True,,Octa-Core,2021,399,medium price
+Xiaomi,Xiaomi Redmi Note 11 4G,128,6,2021-12-01,162 x 75.5 x 8.9 mm (6.38 x 2.97 x 0.35 in),181.0,LCD,6.5,Android,False,,Octa-Core,2021,405,low price
+Xiaomi,Xiaomi Redmi Note 11 4G,128,6,2021-12-01,162 x 75.5 x 8.9 mm (6.38 x 2.97 x 0.35 in),181.0,LCD,6.5,Android,False,5000.0,Octa-Core,2021,405,medium price
+Xiaomi,Xiaomi Redmi Note 11 4G,128,6,2021-12-01,162 x 75.5 x 8.9 mm (6.38 x 2.97 x 0.35 in),181.0,LCD,6.5,Android,False,5000.0,Octa-Core,2021,405,medium price
+Samsung,Samsung Galaxy A13 5G,128,4,2021-12-03,164.5 x 76.5 x 8.8 mm (6.48 x 3.01 x 0.35 in),195.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Samsung,Samsung Galaxy A13 5G,128,4,2021-12-03,164.5 x 76.5 x 8.8 mm (6.48 x 3.01 x 0.35 in),195.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,low price
+Samsung,Samsung Galaxy A13 5G,128,4,2021-12-03,164.5 x 76.5 x 8.8 mm (6.48 x 3.01 x 0.35 in),195.0,LCD,6.5,Android,True,5000.0,Octa-Core,2021,270,medium price
+Xiaomi,Xiaomi 12 Pro,256,8,2021-12-31,163.6 x 74.6 x 8.2 mm (6.44 x 2.94 x 0.32 in),204.0,AMOLED,6.73,Android,True,4600.0,Octa-Core,2021,521,medium price
+Xiaomi,Xiaomi 12 Pro,256,12,2021-12-31,163.6 x 74.6 x 8.2 mm (6.44 x 2.94 x 0.32 in),204.0,AMOLED,6.73,Android,True,4600.0,Octa-Core,2021,521,medium price
+Xiaomi,Xiaomi 12,256,8,2021-12-31,152.7 x 69.9 x 8.2 mm (6.01 x 2.75 x 0.32 in),179.0,AMOLED,6.28,Android,True,4500.0,Octa-Core,2021,419,medium price
+Xiaomi,Xiaomi 12,256,12,2021-12-31,152.7 x 69.9 x 8.2 mm (6.01 x 2.75 x 0.32 in),179.0,AMOLED,6.28,Android,True,4500.0,Octa-Core,2021,419,medium price
+Xiaomi,Xiaomi 12X,256,8,2021-12-31,152.7 x 69.9 x 8.2 mm (6.01 x 2.75 x 0.32 in),176.0,AMOLED,6.28,Android,True,4500.0,Octa-Core,2021,419,medium price
+Xiaomi,Xiaomi 12X,256,12,2021-12-31,152.7 x 69.9 x 8.2 mm (6.01 x 2.75 x 0.32 in),176.0,AMOLED,6.28,Android,True,4500.0,Octa-Core,2021,419,medium price
+Xiaomi,Xiaomi 12 Pro,256,8,2021-12-31,163.6 x 74.6 x 8.2 mm (6.44 x 2.94 x 0.32 in),204.0,AMOLED,6.73,Android,True,4600.0,Octa-Core,2021,521,medium price
+Xiaomi,Xiaomi 12,256,8,2021-12-31,152.7 x 69.9 x 8.2 mm (6.01 x 2.75 x 0.32 in),179.0,AMOLED,6.28,Android,True,4500.0,Octa-Core,2021,419,medium price
+Xiaomi,Xiaomi 12,256,12,2021-12-31,152.7 x 69.9 x 8.2 mm (6.01 x 2.75 x 0.32 in),179.0,AMOLED,6.28,Android,True,4500.0,Octa-Core,2021,419,medium price
+Xiaomi,Xiaomi 12 Pro,256,8,2021-12-31,163.6 x 74.6 x 8.2 mm (6.44 x 2.94 x 0.32 in),204.0,AMOLED,6.73,Android,True,4600.0,Octa-Core,2021,521,medium price
+Xiaomi,Xiaomi 12,256,8,2021-12-31,152.7 x 69.9 x 8.2 mm (6.01 x 2.75 x 0.32 in),179.0,AMOLED,6.28,Android,True,4500.0,Octa-Core,2021,419,medium price
+Xiaomi,Xiaomi 12,256,12,2021-12-31,152.7 x 69.9 x 8.2 mm (6.01 x 2.75 x 0.32 in),179.0,AMOLED,6.28,Android,True,4500.0,Octa-Core,2021,419,medium price
+Xiaomi,Xiaomi 12X,256,8,2021-12-31,152.7 x 69.9 x 8.2 mm (6.01 x 2.75 x 0.32 in),176.0,AMOLED,6.28,Android,True,4500.0,Octa-Core,2021,419,medium price
+Xiaomi,Xiaomi 12 Pro,256,8,2021-12-31,163.6 x 74.6 x 8.2 mm (6.44 x 2.94 x 0.32 in),204.0,AMOLED,6.73,Android,True,4600.0,Octa-Core,2021,521,medium price
+Xiaomi,Xiaomi 12,256,8,2021-12-31,152.7 x 69.9 x 8.2 mm (6.01 x 2.75 x 0.32 in),179.0,AMOLED,6.28,Android,True,4500.0,Octa-Core,2021,419,medium price
+Samsung,Samsung Galaxy S21 FE 5G,128,8,2022-01-07,155.7 x 74.5 x 7.9 mm (6.13 x 2.93 x 0.31 in),177.0,AMOLED,6.4,Android,True,4500.0,Octa-Core,2022,403,medium price
+Samsung,Samsung Galaxy S21 FE 5G,256,8,2022-01-07,155.7 x 74.5 x 7.9 mm (6.13 x 2.93 x 0.31 in),177.0,AMOLED,6.4,Android,True,4500.0,Octa-Core,2022,403,medium price
+Samsung,,128,8,2022-01-07,155.7 x 74.5 x 7.9 mm (6.13 x 2.93 x 0.31 in),177.0,AMOLED,6.4,Android,True,4500.0,Octa-Core,2022,403,medium price
+Samsung,Samsung Galaxy S21 FE 5G,256,8,2022-01-07,155.7 x 74.5 x 7.9 mm (6.13 x 2.93 x 0.31 in),177.0,AMOLED,6.4,Android,True,4500.0,Octa-Core,2022,403,medium price
+Samsung,Samsung Galaxy S21 FE 5G,128,8,2022-01-07,155.7 x 74.5 x 7.9 mm (6.13 x 2.93 x 0.31 in),177.0,AMOLED,6.4,Android,True,4500.0,Octa-Core,2022,403,
+Samsung,Samsung Galaxy S21 FE 5G,256,8,2022-01-07,155.7 x 74.5 x 7.9 mm (6.13 x 2.93 x 0.31 in),177.0,AMOLED,6.4,Android,True,4500.0,Octa-Core,2022,403,medium price
+Samsung,Samsung Galaxy A03,32,4,2022-01-21,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,False,5000.0,Octa-Core,2022,270,medium price
+Samsung,,64,4,2022-01-21,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,False,5000.0,Octa-Core,2022,270,medium price
+Samsung,Samsung Galaxy A03,32,4,2022-01-21,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,False,5000.0,Octa-Core,2022,270,
+Samsung,Samsung Galaxy A03,32,4,2022-01-21,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,False,5000.0,Octa-Core,2022,270,medium price
+Samsung,,64,4,2022-01-21,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),196.0,LCD,6.5,Android,False,5000.0,Octa-Core,2022,270,medium price
+Xiaomi,Xiaomi Redmi Note 11,64,6,2022-02-09,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Redmi Note 11,128,4,2022-02-09,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Redmi Note 11,128,6,2022-02-09,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Redmi Note 11S,128,6,2022-02-09,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Redmi Note 11S,128,8,2022-02-09,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Redmi Note 11,64,6,2022-02-09,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Redmi Note 11S,128,6,2022-02-09,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Redmi Note 11S,128,8,2022-02-09,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Redmi Note 11,64,6,2022-02-09,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Redmi Note 11,128,4,2022-02-09,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Redmi Note 11,128,6,2022-02-09,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Redmi Note 11S,128,6,2022-02-09,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Redmi Note 11S,128,8,2022-02-09,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro,128,6,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro,128,8,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,,128,4,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,6,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,8,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro,128,6,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro,128,8,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,4,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,6,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,8,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro,128,6,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro,128,8,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,4,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,6,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro 5G,128,8,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 11 Pro,128,6,2022-02-18,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Samsung,Samsung Galaxy S22 5G,256,8,2022-02-25,146 x 70.6 x 7.6 mm (5.75 x 2.78 x 0.30 in),167.0,AMOLED,6.1,Android,True,,Octa-Core,2022,425,medium price
+Samsung,Samsung Galaxy S22+ 5G,256,8,2022-02-25,157.4 x 75.8 x 7.6 mm (6.20 x 2.98 x 0.30 in),195.0,AMOLED,6.6,Android,True,4500.0,Octa-Core,2022,393,medium price
+Samsung,Samsung Galaxy S22 Ultra 5G,256,12,2022-02-25,163.3 x 77.9 x 8.9 mm (6.43 x 3.07 x 0.35 in),228.0,AMOLED,6.8,Android,True,,Octa-Core,2022,500,medium price
+Samsung,Samsung Galaxy S22 Ultra 5G,512,12,2022-02-25,163.3 x 77.9 x 8.9 mm (6.43 x 3.07 x 0.35 in),228.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2022,500,medium price
+Samsung,Samsung Galaxy S22 Ultra 5G,1000,12,2022-02-25,163.3 x 77.9 x 8.9 mm (6.43 x 3.07 x 0.35 in),228.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2022,500,medium price
+Samsung,Samsung Galaxy S22 5G,256,8,2022-02-25,146 x 70.6 x 7.6 mm (5.75 x 2.78 x 0.30 in),167.0,AMOLED,6.1,Android,True,3700.0,Octa-Core,2022,425,medium price
+Samsung,,256,8,2022-02-25,146 x 70.6 x 7.6 mm (5.75 x 2.78 x 0.30 in),167.0,AMOLED,6.1,Android,True,3700.0,Octa-Core,2022,425,medium price
+Samsung,,256,8,2022-02-25,157.4 x 75.8 x 7.6 mm (6.20 x 2.98 x 0.30 in),195.0,AMOLED,6.6,Android,True,4500.0,Octa-Core,2022,393,medium price
+Samsung,Samsung Galaxy S22+ 5G,256,8,2022-02-25,157.4 x 75.8 x 7.6 mm (6.20 x 2.98 x 0.30 in),195.0,AMOLED,6.6,Android,True,4500.0,Octa-Core,2022,393,high price
+Samsung,Samsung Galaxy S22+ 5G,256,8,2022-02-25,157.4 x 75.8 x 7.6 mm (6.20 x 2.98 x 0.30 in),195.0,AMOLED,6.6,Android,True,4500.0,Octa-Core,2022,393,high price
+Samsung,Samsung Galaxy S22 Ultra 5G,256,12,2022-02-25,163.3 x 77.9 x 8.9 mm (6.43 x 3.07 x 0.35 in),228.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2022,500,medium price
+Samsung,Samsung Galaxy S22 Ultra 5G,512,12,2022-02-25,163.3 x 77.9 x 8.9 mm (6.43 x 3.07 x 0.35 in),228.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2022,500,medium price
+Samsung,Samsung Galaxy S22 Ultra 5G,1000,12,2022-02-25,163.3 x 77.9 x 8.9 mm (6.43 x 3.07 x 0.35 in),228.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2022,500,medium price
+Samsung,Samsung Galaxy S22 Ultra 5G,256,12,2022-02-25,163.3 x 77.9 x 8.9 mm (6.43 x 3.07 x 0.35 in),228.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2022,500,high price
+Samsung,,512,12,2022-02-25,163.3 x 77.9 x 8.9 mm (6.43 x 3.07 x 0.35 in),228.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2022,500,high price
+Samsung,Samsung Galaxy S22 5G,256,8,2022-02-25,146 x 70.6 x 7.6 mm (5.75 x 2.78 x 0.30 in),167.0,AMOLED,6.1,Android,True,3700.0,Octa-Core,2022,425,medium price
+Samsung,Samsung Galaxy S22+ 5G,256,8,2022-02-25,157.4 x 75.8 x 7.6 mm (6.20 x 2.98 x 0.30 in),195.0,AMOLED,6.6,Android,True,4500.0,Octa-Core,2022,393,medium price
+Samsung,Samsung Galaxy S22 Ultra 5G,256,12,2022-02-25,163.3 x 77.9 x 8.9 mm (6.43 x 3.07 x 0.35 in),228.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2022,500,medium price
+Samsung,Samsung Galaxy S22 Ultra 5G,512,12,2022-02-25,163.3 x 77.9 x 8.9 mm (6.43 x 3.07 x 0.35 in),228.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2022,500,medium price
+Samsung,Samsung Galaxy S22 Ultra 5G,1000,12,2022-02-25,163.3 x 77.9 x 8.9 mm (6.43 x 3.07 x 0.35 in),228.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2022,500,medium price
+Xiaomi,Xiaomi Poco M4 Pro,128,6,2022-03-16,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.5,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Poco M4 Pro,128,8,2022-03-16,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.5,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Poco M4 Pro,128,6,2022-03-16,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),179.5,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Apple,Apple iPhone SE (2022),128,4,2022-03-18,138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in),144.0,LCD,4.7,iOS,True,2018.0,Hexa-Core,2022,326,medium price
+Apple,Apple iPhone SE (2022),256,4,2022-03-18,138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in),144.0,LCD,4.7,iOS,True,2018.0,Hexa-Core,2022,326,medium price
+Apple,Apple iPhone SE (2022),128,4,2022-03-18,138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in),144.0,LCD,4.7,iOS,True,2018.0,Hexa-Core,2022,326,medium price
+Apple,,256,4,2022-03-18,138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in),144.0,LCD,4.7,iOS,True,2018.0,Hexa-Core,2022,326,medium price
+Apple,Apple iPhone SE (2022),128,4,2022-03-18,138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in),144.0,LCD,4.7,iOS,True,2018.0,Hexa-Core,2022,326,
+Apple,Apple iPhone SE (2022),256,4,2022-03-18,138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in),144.0,LCD,4.7,iOS,True,2018.0,Hexa-Core,2022,326,
+Samsung,Samsung Galaxy A13,32,4,2022-03-23,165.1 x 76.4 x 8.8 mm (6.5 x 3.01 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy A13,64,4,2022-03-23,165.1 x 76.4 x 8.8 mm (6.5 x 3.01 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy A13,128,4,2022-03-23,165.1 x 76.4 x 8.8 mm (6.5 x 3.01 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,
+Xiaomi,Xiaomi Redmi 10C,64,4,2022-03-23,169.6 x 76.6 x 8.3 mm (6.68 x 3.02 x 0.33 in),190.0,LCD,6.71,Android,True,5000.0,Octa-Core,2022,268,medium price
+Xiaomi,Xiaomi Poco X4 Pro 5G,128,6,2022-03-23,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),205.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Poco X4 Pro 5G,128,8,2022-03-23,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),205.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Samsung,Samsung Galaxy A13,32,4,2022-03-23,165.1 x 76.4 x 8.8 mm (6.5 x 3.01 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,low price
+Samsung,Samsung Galaxy A13,64,4,2022-03-23,165.1 x 76.4 x 8.8 mm (6.5 x 3.01 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,low price
+Samsung,Samsung Galaxy A13,128,4,2022-03-23,165.1 x 76.4 x 8.8 mm (6.5 x 3.01 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Xiaomi,Xiaomi Redmi 10C,64,4,2022-03-23,169.6 x 76.6 x 8.3 mm (6.68 x 3.02 x 0.33 in),190.0,LCD,6.71,Android,True,5000.0,Octa-Core,2022,268,low price
+Xiaomi,,128,4,2022-03-23,169.6 x 76.6 x 8.3 mm (6.68 x 3.02 x 0.33 in),190.0,LCD,6.71,Android,True,5000.0,Octa-Core,2022,268,medium price
+Xiaomi,,128,6,2022-03-23,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),205.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Poco X4 Pro 5G,128,8,2022-03-23,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),205.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Samsung,,32,4,2022-03-23,165.1 x 76.4 x 8.8 mm (6.5 x 3.01 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy A13,64,4,2022-03-23,165.1 x 76.4 x 8.8 mm (6.5 x 3.01 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,low price
+Samsung,,128,4,2022-03-23,165.1 x 76.4 x 8.8 mm (6.5 x 3.01 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Xiaomi,Xiaomi Poco X4 Pro 5G,128,6,2022-03-23,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),205.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Samsung,Samsung Galaxy A53 5G,128,6,2022-03-24,159.6 x 74.8 x 8.1 mm (6.28 x 2.94 x 0.32 in),189.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2022,405,medium price
+Samsung,Samsung Galaxy A53 5G,128,8,2022-03-24,159.6 x 74.8 x 8.1 mm (6.28 x 2.94 x 0.32 in),189.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2022,405,medium price
+Samsung,Samsung Galaxy A53 5G,128,6,2022-03-24,159.6 x 74.8 x 8.1 mm (6.28 x 2.94 x 0.32 in),189.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2022,405,medium price
+Samsung,,128,8,2022-03-24,159.6 x 74.8 x 8.1 mm (6.28 x 2.94 x 0.32 in),189.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2022,405,medium price
+Samsung,Samsung Galaxy A53 5G,256,6,2022-03-24,159.6 x 74.8 x 8.1 mm (6.28 x 2.94 x 0.32 in),189.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2022,405,medium price
+Samsung,Samsung Galaxy A53 5G,256,8,2022-03-24,159.6 x 74.8 x 8.1 mm (6.28 x 2.94 x 0.32 in),189.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2022,405,medium price
+Samsung,Samsung Galaxy A53 5G,128,6,2022-03-24,159.6 x 74.8 x 8.1 mm (6.28 x 2.94 x 0.32 in),189.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2022,405,medium price
+Samsung,Samsung Galaxy A53 5G,128,6,2022-03-24,159.6 x 74.8 x 8.1 mm (6.28 x 2.94 x 0.32 in),189.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2022,405,medium price
+Samsung,Samsung Galaxy A53 5G,128,8,2022-03-24,159.6 x 74.8 x 8.1 mm (6.28 x 2.94 x 0.32 in),189.0,AMOLED,6.5,Android,True,,Octa-Core,2022,405,medium price
+Samsung,Samsung Galaxy A23,64,6,2022-03-25,165.4 x 76.9 x 8.4 mm (6.51 x 3.03 x 0.33 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy A23,128,4,2022-03-25,165.4 x 76.9 x 8.4 mm (6.51 x 3.03 x 0.33 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy A23,64,6,2022-03-25,165.4 x 76.9 x 8.4 mm (6.51 x 3.03 x 0.33 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Xiaomi,Xiaomi Redmi 10A,32,3,2022-03-31,164.9 x 77.1 x 9 mm (6.49 x 3.04 x 0.35 in),194.0,LCD,6.53,Android,False,5000.0,Octa-Core,2022,269,low price
+Xiaomi,Xiaomi Redmi 10A,64,3,2022-03-31,164.9 x 77.1 x 9 mm (6.49 x 3.04 x 0.35 in),194.0,LCD,6.53,Android,False,,Octa-Core,2022,269,
+Xiaomi,Xiaomi Redmi 10A,32,3,2022-03-31,164.9 x 77.1 x 9 mm (6.49 x 3.04 x 0.35 in),194.0,LCD,6.53,Android,False,5000.0,Octa-Core,2022,269,
+Xiaomi,Xiaomi Redmi 10A,64,3,2022-03-31,164.9 x 77.1 x 9 mm (6.49 x 3.04 x 0.35 in),194.0,LCD,6.53,Android,False,5000.0,Octa-Core,2022,269,low price
+Samsung,Samsung Galaxy M33,128,8,2022-04-08,165.4 x 76.9 x 9.4 mm (6.51 x 3.03 x 0.37 in),198.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy A33 5G,128,6,2022-04-20,159.7 x 74 x 8.1 mm (6.29 x 2.91 x 0.32 in),186.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2022,411,medium price
+Samsung,Samsung Galaxy A33 5G,128,6,2022-04-20,159.7 x 74 x 8.1 mm (6.29 x 2.91 x 0.32 in),186.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2022,411,medium price
+Samsung,Samsung Galaxy A33 5G,128,6,2022-04-20,159.7 x 74 x 8.1 mm (6.29 x 2.91 x 0.32 in),186.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2022,411,medium price
+Samsung,Samsung Galaxy M53,128,8,2022-04-22,164.7 x 77 x 7.4 mm (6.48 x 3.03 x 0.29 in),176.0,AMOLED,6.7,Android,True,5000.0,Octa-Core,2022,394,medium price
+Samsung,Samsung Galaxy M53,256,8,2022-04-22,164.7 x 77 x 7.4 mm (6.48 x 3.03 x 0.29 in),176.0,AMOLED,6.7,Android,True,5000.0,Octa-Core,2022,394,medium price
+Samsung,Samsung Galaxy A73 5G,128,8,2022-04-22,163.7 x 76.1 x 7.6 mm (6.44 x 3.00 x 0.30 in),181.0,AMOLED,6.7,Android,True,5000.0,Octa-Core,2022,393,medium price
+Samsung,,128,8,2022-04-22,164.7 x 77 x 7.4 mm (6.48 x 3.03 x 0.29 in),176.0,AMOLED,6.7,Android,True,5000.0,Octa-Core,2022,394,medium price
+Xiaomi,Xiaomi Redmi Note 11S 5G,128,4,2022-04-23,163.6 x 75.8 x 8.8 mm (6.44 x 2.98 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,399,medium price
+Xiaomi,Xiaomi Redmi Note 11S 5G,128,6,2022-04-23,163.6 x 75.8 x 8.8 mm (6.44 x 2.98 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,399,medium price
+Xiaomi,Xiaomi Redmi Note 11S 5G,128,4,2022-04-23,163.6 x 75.8 x 8.8 mm (6.44 x 2.98 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,399,medium price
+Xiaomi,Xiaomi Redmi Note 11S 5G,128,4,2022-04-23,163.6 x 75.8 x 8.8 mm (6.44 x 2.98 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,399,medium price
+Xiaomi,Xiaomi Redmi Note 11S 5G,128,6,2022-04-23,163.6 x 75.8 x 8.8 mm (6.44 x 2.98 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,399,medium price
+Xiaomi,Xiaomi Poco F4 GT,256,12,2022-04-28,162.5 x 76.7 x 8.5 mm (6.40 x 3.02 x 0.33 in),210.0,AMOLED,6.67,Android,True,4700.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Poco F4 GT,256,12,2022-04-28,162.5 x 76.7 x 8.5 mm (6.40 x 3.02 x 0.33 in),210.0,AMOLED,6.67,Android,True,4700.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi 10 2022,128,4,2022-05-11,162 x 75.5 x 8.9 mm (6.38 x 2.97 x 0.35 in),181.0,LCD,6.5,Android,True,5000.0,Octa-Core,2022,405,medium price
+Xiaomi,Xiaomi Redmi 10 2022,128,6,2022-05-11,162 x 75.5 x 8.9 mm (6.38 x 2.97 x 0.35 in),181.0,LCD,6.5,Android,True,5000.0,Octa-Core,2022,405,medium price
+Xiaomi,Xiaomi Redmi 10 2022,128,4,2022-05-11,162 x 75.5 x 8.9 mm (6.38 x 2.97 x 0.35 in),181.0,LCD,6.5,Android,True,5000.0,Octa-Core,2022,405,medium price
+Xiaomi,Xiaomi Redmi 10 2022,128,4,2022-05-11,162 x 75.5 x 8.9 mm (6.38 x 2.97 x 0.35 in),181.0,LCD,6.5,Android,True,,Octa-Core,2022,405,low price
+Xiaomi,Xiaomi Redmi 10 2022,128,6,2022-05-11,162 x 75.5 x 8.9 mm (6.38 x 2.97 x 0.35 in),181.0,LCD,6.5,Android,True,5000.0,Octa-Core,2022,405,low price
+Xiaomi,Xiaomi Redmi 10 2022,128,4,2022-05-11,162 x 75.5 x 8.9 mm (6.38 x 2.97 x 0.35 in),181.0,LCD,6.5,Android,True,5000.0,Octa-Core,2022,405,medium price
+Xiaomi,Xiaomi Poco C40,64,4,2022-06-17,169.6 x 76.6 x 9.2 mm (6.68 x 3.02 x 0.36 in),204.0,LCD,6.71,Android,True,6000.0,Octa-Core,2022,268,medium price
+Xiaomi,Xiaomi Poco C40,64,4,2022-06-17,169.6 x 76.6 x 9.2 mm (6.68 x 3.02 x 0.36 in),204.0,LCD,6.71,Android,True,6000.0,Octa-Core,2022,268,low price
+Xiaomi,Xiaomi Poco C40,64,4,2022-06-17,169.6 x 76.6 x 9.2 mm (6.68 x 3.02 x 0.36 in),204.0,LCD,6.71,Android,True,6000.0,Octa-Core,2022,268,medium price
+Xiaomi,Xiaomi Poco C40,32,4,2022-06-17,169.6 x 76.6 x 9.2 mm (6.68 x 3.02 x 0.36 in),204.0,LCD,6.71,Android,True,6000.0,Octa-Core,2022,268,low price
+Xiaomi,Xiaomi Poco C40,64,4,2022-06-17,169.6 x 76.6 x 9.2 mm (6.68 x 3.02 x 0.36 in),204.0,LCD,6.71,Android,True,6000.0,Octa-Core,2022,268,low price
+Xiaomi,Xiaomi Poco X4 GT,256,8,2022-06-27,163.6 x 74.3 x 8.9 mm (6.44 x 2.93 x 0.35 in),200.0,LCD,6.6,Android,True,5080.0,Octa-Core,2022,407,medium price
+Xiaomi,Xiaomi Poco X4 GT,256,8,2022-06-27,163.6 x 74.3 x 8.9 mm (6.44 x 2.93 x 0.35 in),200.0,LCD,6.6,Android,True,5080.0,Octa-Core,2022,407,medium price
+Xiaomi,Xiaomi Poco F4,128,8,2022-06-27,163.2 x 76 x 7.7 mm (6.43 x 2.99 x 0.30 in),195.0,AMOLED,6.67,Android,True,4500.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Poco F4,128,8,2022-06-27,163.2 x 76 x 7.7 mm (6.43 x 2.99 x 0.30 in),195.0,AMOLED,6.67,Android,True,4500.0,Octa-Core,2022,395,medium price
+Samsung,Samsung Galaxy M13,128,4,2022-07-01,165.4 x 76.9 x 8.4 mm (6.51 x 3.03 x 0.33 in),192.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy A13 (SM-A137),32,4,2022-07-01,165.1 x 76.4 x 8.8 mm (6.5 x 3.01 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy A13 (SM-A137),64,4,2022-07-01,165.1 x 76.4 x 8.8 mm (6.5 x 3.01 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy M13,128,4,2022-07-01,165.4 x 76.9 x 8.4 mm (6.51 x 3.03 x 0.33 in),192.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy A13 (SM-A137),32,4,2022-07-01,165.1 x 76.4 x 8.8 mm (6.5 x 3.01 x 0.35 in),195.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy Z Flip4,256,8,2022-08-25,165.2 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,3700.0,Octa-Core,2022,426,medium price
+Samsung,,512,8,2022-08-25,165.2 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,3700.0,Octa-Core,2022,426,medium price
+Samsung,Samsung Galaxy Z Fold4,512,12,2022-08-25,155.1 x 130.1 x 6.3 mm,263.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2022,373,high price
+Samsung,Samsung Galaxy Z Fold4,1000,12,2022-08-25,155.1 x 130.1 x 6.3 mm,263.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2022,373,high price
+Samsung,Samsung Galaxy Z Flip4,256,8,2022-08-25,165.2 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,3700.0,Octa-Core,2022,426,medium price
+Samsung,Samsung Galaxy Z Flip4,512,8,2022-08-25,165.2 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,3700.0,Octa-Core,2022,426,medium price
+Samsung,Samsung Galaxy Z Flip4,256,8,2022-08-25,165.2 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,3700.0,Octa-Core,2022,426,high price
+Samsung,Samsung Galaxy Z Flip4,512,8,2022-08-25,165.2 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,3700.0,Octa-Core,2022,426,high price
+Samsung,Samsung Galaxy Z Flip4,256,8,2022-08-25,165.2 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,3700.0,Octa-Core,2022,426,high price
+Samsung,Samsung Galaxy Z Flip4,512,8,2022-08-25,165.2 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,3700.0,Octa-Core,2022,426,high price
+Samsung,Samsung Galaxy Z Fold4,512,12,2022-08-25,155.1 x 130.1 x 6.3 mm,263.0,AMOLED,7.6,Android,True,,Octa-Core,2022,373,high price
+Samsung,Samsung Galaxy Z Fold4,1000,12,2022-08-25,155.1 x 130.1 x 6.3 mm,263.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2022,373,medium price
+Samsung,Samsung Galaxy Z Fold4,512,12,2022-08-25,155.1 x 130.1 x 6.3 mm,263.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2022,373,high price
+Samsung,Samsung Galaxy Z Fold4,1000,12,2022-08-25,155.1 x 130.1 x 6.3 mm,263.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2022,373,high price
+Samsung,Samsung Galaxy Z Fold4,512,12,2022-08-25,155.1 x 130.1 x 6.3 mm,263.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2022,373,high price
+Samsung,Samsung Galaxy Z Fold4,1000,12,2022-08-25,155.1 x 130.1 x 6.3 mm,263.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2022,373,high price
+Samsung,Samsung Galaxy Z Flip4,256,8,2022-08-25,165.2 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,3700.0,Octa-Core,2022,426,medium price
+Samsung,Samsung Galaxy Z Flip4,512,8,2022-08-25,165.2 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,,Octa-Core,2022,426,medium price
+Samsung,Samsung Galaxy Z Fold4,512,12,2022-08-25,155.1 x 130.1 x 6.3 mm,263.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2022,373,medium price
+Samsung,Samsung Galaxy Z Fold4,1000,12,2022-08-25,155.1 x 130.1 x 6.3 mm,263.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2022,373,medium price
+Samsung,Samsung Galaxy A23 5G,64,6,2022-09-02,165.4 x 76.9 x 8.4 mm (6.51 x 3.03 x 0.33 in),197.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy A23 5G,128,4,2022-09-02,165.4 x 76.9 x 8.4 mm (6.51 x 3.03 x 0.33 in),197.0,LCD,6.6,Android,True,,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy A23 5G,64,6,2022-09-02,165.4 x 76.9 x 8.4 mm (6.51 x 3.03 x 0.33 in),197.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,low price
+Samsung,Samsung Galaxy A23 5G,64,6,2022-09-02,165.4 x 76.9 x 8.4 mm (6.51 x 3.03 x 0.33 in),197.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy A23 5G,64,6,2022-09-02,165.4 x 76.9 x 8.4 mm (6.51 x 3.03 x 0.33 in),197.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Samsung,Samsung Galaxy A23 5G,128,4,2022-09-02,165.4 x 76.9 x 8.4 mm (6.51 x 3.03 x 0.33 in),197.0,LCD,6.6,Android,True,5000.0,Octa-Core,2022,400,medium price
+Xiaomi,Xiaomi Poco M5s,128,4,2022-09-06,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Poco M5s,128,6,2022-09-06,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Poco M5s,256,8,2022-09-06,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Poco M5s,128,4,2022-09-06,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Poco M5s,128,6,2022-09-06,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Poco M5s,128,4,2022-09-06,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Poco M5s,128,6,2022-09-06,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Poco M5s,128,4,2022-09-06,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Poco M5s,128,6,2022-09-06,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,medium price
+Xiaomi,Xiaomi Poco M5s,256,8,2022-09-06,160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in),178.8,AMOLED,6.43,Android,True,5000.0,Octa-Core,2022,409,low price
+Xiaomi,Xiaomi Poco M5,128,4,2022-09-13,164 x 76.1 x 8.9 mm (6.46 x 3.00 x 0.35 in),201.0,LCD,6.58,Android,True,5000.0,Octa-Core,2022,401,medium price
+Xiaomi,Xiaomi Poco M5,128,6,2022-09-13,164 x 76.1 x 8.9 mm (6.46 x 3.00 x 0.35 in),201.0,LCD,6.58,Android,True,5000.0,Octa-Core,2022,401,medium price
+Xiaomi,Xiaomi Poco M5,128,4,2022-09-13,164 x 76.1 x 8.9 mm (6.46 x 3.00 x 0.35 in),201.0,LCD,6.58,Android,True,5000.0,Octa-Core,2022,401,medium price
+Xiaomi,Xiaomi Poco M5,128,6,2022-09-13,164 x 76.1 x 8.9 mm (6.46 x 3.00 x 0.35 in),201.0,LCD,6.58,Android,True,5000.0,Octa-Core,2022,401,medium price
+Xiaomi,Xiaomi Poco M5,128,4,2022-09-13,164 x 76.1 x 8.9 mm (6.46 x 3.00 x 0.35 in),201.0,LCD,6.58,Android,True,5000.0,Octa-Core,2022,401,medium price
+Apple,Apple iPhone 14,256,6,2022-09-16,146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in),172.0,OLED,6.1,iOS,True,,Hexa-Core,2022,460,medium price
+Apple,Apple iPhone 14,512,6,2022-09-16,146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in),172.0,OLED,6.1,iOS,True,3279.0,Hexa-Core,2022,460,medium price
+Apple,Apple iPhone 14 Pro,256,6,2022-09-16,147.5 x 71.5 x 7.9 mm (5.81 x 2.81 x 0.31 in),206.0,OLED,6.1,iOS,True,3200.0,Hexa-Core,2022,460,medium price
+Apple,Apple iPhone 14 Pro,512,6,2022-09-16,147.5 x 71.5 x 7.9 mm (5.81 x 2.81 x 0.31 in),206.0,OLED,6.1,iOS,True,3200.0,Hexa-Core,2022,460,high price
+Apple,Apple iPhone 14 Pro,1000,6,2022-09-16,147.5 x 71.5 x 7.9 mm (5.81 x 2.81 x 0.31 in),206.0,OLED,6.1,iOS,True,3200.0,Hexa-Core,2022,460,high price
+Apple,Apple iPhone 14 Pro Max,256,6,2022-09-16,160.7 x 77.6 x 7.9 mm (6.33 x 3.06 x 0.31 in),240.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,460,high price
+Apple,Apple iPhone 14 Pro Max,512,6,2022-09-16,160.7 x 77.6 x 7.9 mm (6.33 x 3.06 x 0.31 in),240.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,460,high price
+Apple,Apple iPhone 14 Pro Max,1000,6,2022-09-16,160.7 x 77.6 x 7.9 mm (6.33 x 3.06 x 0.31 in),240.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,460,high price
+Apple,Apple iPhone 14,256,6,2022-09-16,146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in),172.0,OLED,6.1,iOS,True,3279.0,Hexa-Core,2022,460,medium price
+Apple,Apple iPhone 14,512,6,2022-09-16,146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in),172.0,OLED,6.1,iOS,True,3279.0,Hexa-Core,2022,460,medium price
+Apple,Apple iPhone 14 Pro,256,6,2022-09-16,147.5 x 71.5 x 7.9 mm (5.81 x 2.81 x 0.31 in),206.0,OLED,6.1,iOS,True,3200.0,Hexa-Core,2022,460,medium price
+Apple,Apple iPhone 14 Pro,512,6,2022-09-16,147.5 x 71.5 x 7.9 mm (5.81 x 2.81 x 0.31 in),206.0,OLED,6.1,iOS,True,3200.0,Hexa-Core,2022,460,medium price
+Apple,Apple iPhone 14 Pro,1000,6,2022-09-16,147.5 x 71.5 x 7.9 mm (5.81 x 2.81 x 0.31 in),206.0,OLED,6.1,iOS,True,3200.0,Hexa-Core,2022,460,medium price
+Apple,,256,6,2022-09-16,160.7 x 77.6 x 7.9 mm (6.33 x 3.06 x 0.31 in),240.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,460,medium price
+Apple,Apple iPhone 14 Pro Max,512,6,2022-09-16,160.7 x 77.6 x 7.9 mm (6.33 x 3.06 x 0.31 in),240.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,460,medium price
+Apple,Apple iPhone 14 Pro Max,1000,6,2022-09-16,160.7 x 77.6 x 7.9 mm (6.33 x 3.06 x 0.31 in),240.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,460,medium price
+Apple,Apple iPhone 14 Pro Max,256,6,2022-09-16,160.7 x 77.6 x 7.9 mm (6.33 x 3.06 x 0.31 in),240.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,460,high price
+Apple,Apple iPhone 14,256,6,2022-09-16,146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in),172.0,OLED,6.1,iOS,True,3279.0,Hexa-Core,2022,460,medium price
+Apple,Apple iPhone 14,512,6,2022-09-16,146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in),172.0,OLED,6.1,iOS,True,3279.0,Hexa-Core,2022,460,medium price
+Apple,Apple iPhone 14 Pro,256,6,2022-09-16,147.5 x 71.5 x 7.9 mm (5.81 x 2.81 x 0.31 in),206.0,OLED,6.1,iOS,True,3200.0,Hexa-Core,2022,460,medium price
+Apple,Apple iPhone 14 Pro,512,6,2022-09-16,147.5 x 71.5 x 7.9 mm (5.81 x 2.81 x 0.31 in),206.0,OLED,6.1,iOS,True,3200.0,Hexa-Core,2022,460,high price
+Apple,Apple iPhone 14 Pro,1000,6,2022-09-16,147.5 x 71.5 x 7.9 mm (5.81 x 2.81 x 0.31 in),206.0,OLED,6.1,iOS,True,3200.0,Hexa-Core,2022,460,high price
+Apple,Apple iPhone 14 Pro Max,256,6,2022-09-16,160.7 x 77.6 x 7.9 mm (6.33 x 3.06 x 0.31 in),240.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,460,high price
+Apple,Apple iPhone 14 Pro Max,512,6,2022-09-16,160.7 x 77.6 x 7.9 mm (6.33 x 3.06 x 0.31 in),240.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,460,high price
+Apple,Apple iPhone 14 Pro Max,1000,6,2022-09-16,160.7 x 77.6 x 7.9 mm (6.33 x 3.06 x 0.31 in),240.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,460,high price
+Samsung,Samsung Galaxy A04s,32,4,2022-09-22,164.7 x 76.7 x 9.1 mm (6.48 x 3.02 x 0.36 in),195.0,LCD,6.5,Android,True,5000.0,Octa-Core,2022,270,medium price
+Samsung,Samsung Galaxy A04s,32,4,2022-09-22,164.7 x 76.7 x 9.1 mm (6.48 x 3.02 x 0.36 in),195.0,LCD,6.5,Android,True,5000.0,Octa-Core,2022,270,medium price
+Samsung,,32,4,2022-09-22,164.7 x 76.7 x 9.1 mm (6.48 x 3.02 x 0.36 in),195.0,LCD,6.5,Android,True,5000.0,Octa-Core,2022,270,low price
+Samsung,Samsung Galaxy A04s,64,4,2022-09-22,164.7 x 76.7 x 9.1 mm (6.48 x 3.02 x 0.36 in),195.0,LCD,6.5,Android,True,5000.0,Octa-Core,2022,270,low price
+Xiaomi,Xiaomi Redmi A1+,32,3,2022-09-23,164.9 x 76.8 x 9.1 mm (6.49 x 3.02 x 0.36 in),192.0,LCD,6.52,Android,False,,Quad-Core,2022,269,low price
+Xiaomi,Xiaomi Redmi 10 5G,128,4,2022-09-23,164 x 76.1 x 8.9 mm (6.46 x 3.00 x 0.35 in),200.0,LCD,6.58,Android,True,5000.0,Octa-Core,2022,401,medium price
+Xiaomi,Xiaomi Redmi 10 5G,128,6,2022-09-23,164 x 76.1 x 8.9 mm (6.46 x 3.00 x 0.35 in),200.0,LCD,6.58,Android,True,5000.0,Octa-Core,2022,401,medium price
+Xiaomi,Xiaomi Redmi 10 5G,128,4,2022-09-23,164 x 76.1 x 8.9 mm (6.46 x 3.00 x 0.35 in),200.0,LCD,6.58,Android,True,,Octa-Core,2022,401,medium price
+Xiaomi,Xiaomi Redmi 10 5G,128,6,2022-09-23,164 x 76.1 x 8.9 mm (6.46 x 3.00 x 0.35 in),200.0,LCD,6.58,Android,True,5000.0,Octa-Core,2022,401,medium price
+Xiaomi,Xiaomi Redmi A1+,32,3,2022-09-23,164.9 x 76.8 x 9.1 mm (6.49 x 3.02 x 0.36 in),192.0,LCD,6.52,Android,False,5000.0,Quad-Core,2022,269,low price
+Xiaomi,Xiaomi Redmi 10 5G,128,4,2022-09-23,164 x 76.1 x 8.9 mm (6.46 x 3.00 x 0.35 in),200.0,LCD,6.58,Android,True,5000.0,Octa-Core,2022,401,medium price
+Xiaomi,Xiaomi 12T Pro,256,8,2022-10-06,163.1 x 75.9 x 8.6 mm (6.42 x 2.99 x 0.34 in),205.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,446,medium price
+Xiaomi,Xiaomi 12T Pro,256,12,2022-10-06,163.1 x 75.9 x 8.6 mm (6.42 x 2.99 x 0.34 in),205.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,446,medium price
+Xiaomi,Xiaomi 12T,256,8,2022-10-06,163.1 x 75.9 x 8.6 mm (6.42 x 2.99 x 0.34 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,446,medium price
+Xiaomi,Xiaomi 12T,256,8,2022-10-06,163.1 x 75.9 x 8.6 mm (6.42 x 2.99 x 0.34 in),202.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,446,medium price
+Apple,Apple iPhone 14 Plus,256,6,2022-10-07,160.8 x 78.1 x 7.8 mm (6.33 x 3.07 x 0.31 in),203.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,458,medium price
+Apple,Apple iPhone 14 Plus,512,6,2022-10-07,160.8 x 78.1 x 7.8 mm (6.33 x 3.07 x 0.31 in),203.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,458,high price
+Xiaomi,,128,6,2022-10-07,164 x 76.1 x 8.9 mm (6.46 x 3.00 x 0.35 in),200.0,LCD,6.58,Android,True,5000.0,Octa-Core,2022,401,medium price
+Apple,Apple iPhone 14 Plus,256,6,2022-10-07,160.8 x 78.1 x 7.8 mm (6.33 x 3.07 x 0.31 in),203.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,458,medium price
+Apple,Apple iPhone 14 Plus,512,6,2022-10-07,160.8 x 78.1 x 7.8 mm (6.33 x 3.07 x 0.31 in),203.0,OLED,6.7,iOS,True,,Hexa-Core,2022,458,medium price
+Xiaomi,Xiaomi Poco M4 5G,128,6,2022-10-07,164 x 76.1 x 8.9 mm (6.46 x 3.00 x 0.35 in),200.0,LCD,6.58,Android,True,5000.0,Octa-Core,2022,401,medium price
+Apple,Apple iPhone 14 Plus,256,6,2022-10-07,160.8 x 78.1 x 7.8 mm (6.33 x 3.07 x 0.31 in),203.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,458,medium price
+Apple,Apple iPhone 14 Plus,512,6,2022-10-07,160.8 x 78.1 x 7.8 mm (6.33 x 3.07 x 0.31 in),203.0,OLED,6.7,iOS,True,4323.0,Hexa-Core,2022,458,medium price
+Xiaomi,Xiaomi Poco M4 5G,128,6,2022-10-07,164 x 76.1 x 8.9 mm (6.46 x 3.00 x 0.35 in),200.0,LCD,6.58,Android,True,5000.0,Octa-Core,2022,401,medium price
+Samsung,Samsung Galaxy A04,128,4,2022-10-10,164.4 x 76.3 x 9.1 mm (6.47 x 3.00 x 0.36 in),192.0,LCD,6.5,Android,False,5000.0,Octa-Core,2022,270,low price
+Xiaomi,,128,8,2022-11-01,163 x 76 x 8 mm (6.42 x 2.99 x 0.31 in),187.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro,256,8,2022-11-01,163 x 76 x 8 mm (6.42 x 2.99 x 0.31 in),187.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro,256,12,2022-11-01,163 x 76 x 8 mm (6.42 x 2.99 x 0.31 in),187.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro+,256,12,2022-11-01,162.9 x 76 x 8.9 mm (6.41 x 2.99 x 0.35 in),208.4,OLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro,128,8,2022-11-01,163 x 76 x 8 mm (6.42 x 2.99 x 0.31 in),187.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro,256,8,2022-11-01,163 x 76 x 8 mm (6.42 x 2.99 x 0.31 in),187.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro,256,12,2022-11-01,163 x 76 x 8 mm (6.42 x 2.99 x 0.31 in),187.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro+,256,12,2022-11-01,162.9 x 76 x 8.9 mm (6.41 x 2.99 x 0.35 in),208.4,OLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro,128,8,2022-11-01,163 x 76 x 8 mm (6.42 x 2.99 x 0.31 in),187.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro,256,8,2022-11-01,163 x 76 x 8 mm (6.42 x 2.99 x 0.31 in),187.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro+,256,12,2022-11-01,162.9 x 76 x 8.9 mm (6.41 x 2.99 x 0.35 in),208.4,OLED,6.67,Android,True,5000.0,Octa-Core,2022,395,medium price
+Samsung,Samsung Galaxy A04e,32,4,2022-11-07,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),188.0,LCD,6.5,Android,False,5000.0,Octa-Core,2022,270,low price
+Samsung,Samsung Galaxy A04e,32,4,2022-11-07,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),188.0,LCD,6.5,Android,False,5000.0,Octa-Core,2022,270,low price
+Samsung,Samsung Galaxy A04e,32,4,2022-11-07,164.2 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in),188.0,LCD,6.5,Android,False,5000.0,Octa-Core,2022,270,low price
+Xiaomi,Xiaomi 13,256,8,2022-12-14,152.8 x 71.5 x 8.0 mm or 8.1 mm,185.0,AMOLED,6.36,Android,True,4500.0,Octa-Core,2022,414,medium price
+Xiaomi,Xiaomi 13,256,12,2022-12-14,152.8 x 71.5 x 8.0 mm or 8.1 mm,185.0,AMOLED,6.36,Android,True,4500.0,Octa-Core,2022,414,high price
+Xiaomi,Xiaomi 13 Pro,256,8,2022-12-14,162.9 x 74.6 x 8.4 mm or 8.7 mm,210.0,AMOLED,6.73,Android,True,4820.0,Octa-Core,2022,522,high price
+Xiaomi,Xiaomi Redmi 12C,64,3,2023-01-01,168.8 x 76.4 x 8.8 mm (6.65 x 3.01 x 0.35 in),192.0,LCD,6.71,Android,True,5000.0,Octa-Core,2023,268,low price
+Xiaomi,Xiaomi Redmi 12C,64,4,2023-01-01,168.8 x 76.4 x 8.8 mm (6.65 x 3.01 x 0.35 in),192.0,LCD,6.71,Android,True,5000.0,Octa-Core,2023,268,low price
+Xiaomi,Xiaomi Redmi 12C,128,4,2023-01-01,168.8 x 76.4 x 8.8 mm (6.65 x 3.01 x 0.35 in),192.0,LCD,6.71,Android,True,,Octa-Core,2023,268,medium price
+Xiaomi,Xiaomi Redmi 12C,128,6,2023-01-01,168.8 x 76.4 x 8.8 mm (6.65 x 3.01 x 0.35 in),192.0,LCD,6.71,Android,True,5000.0,Octa-Core,2023,268,medium price
+Xiaomi,Xiaomi Redmi 12C,64,3,2023-01-01,168.8 x 76.4 x 8.8 mm (6.65 x 3.01 x 0.35 in),192.0,LCD,6.71,Android,True,5000.0,Octa-Core,2023,268,low price
+Xiaomi,Xiaomi Redmi 12C,64,4,2023-01-01,168.8 x 76.4 x 8.8 mm (6.65 x 3.01 x 0.35 in),192.0,LCD,6.71,Android,True,5000.0,Octa-Core,2023,268,medium price
+Xiaomi,Xiaomi Redmi 12C,128,4,2023-01-01,168.8 x 76.4 x 8.8 mm (6.65 x 3.01 x 0.35 in),192.0,LCD,6.71,Android,True,,Octa-Core,2023,268,medium price
+Xiaomi,Xiaomi Redmi 12C,64,3,2023-01-01,168.8 x 76.4 x 8.8 mm (6.65 x 3.01 x 0.35 in),192.0,LCD,6.71,Android,True,5000.0,Octa-Core,2023,268,low price
+Xiaomi,Xiaomi Redmi 12C,64,3,2023-01-01,168.8 x 76.4 x 8.8 mm (6.65 x 3.01 x 0.35 in),192.0,LCD,6.71,Android,True,5000.0,Octa-Core,2023,268,low price
+Xiaomi,Xiaomi Redmi Note 12,128,6,2023-01-11,165.9 x 76.2 x 8 mm (6.53 x 3.00 x 0.31 in),188.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,low price
+Xiaomi,Xiaomi Redmi Note 12,256,8,2023-01-11,165.9 x 76.2 x 8 mm (6.53 x 3.00 x 0.31 in),188.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12,128,6,2023-01-11,165.9 x 76.2 x 8 mm (6.53 x 3.00 x 0.31 in),188.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12,256,8,2023-01-11,165.9 x 76.2 x 8 mm (6.53 x 3.00 x 0.31 in),188.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12,128,6,2023-01-11,165.9 x 76.2 x 8 mm (6.53 x 3.00 x 0.31 in),188.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Samsung,,128,4,2023-01-12,167.7 x 78 x 9.1 mm (6.60 x 3.07 x 0.36 in),202.0,LCD,6.6,Android,True,5000.0,Octa-Core,2023,400,medium price
+Samsung,Samsung Galaxy A14 5G,128,6,2023-01-12,167.7 x 78 x 9.1 mm (6.60 x 3.07 x 0.36 in),202.0,LCD,6.6,Android,True,5000.0,Octa-Core,2023,400,medium price
+Samsung,Samsung Galaxy A14 5G,128,4,2023-01-12,167.7 x 78 x 9.1 mm (6.60 x 3.07 x 0.36 in),202.0,LCD,6.6,Android,True,5000.0,Octa-Core,2023,400,low price
+Samsung,Samsung Galaxy A14 5G,128,6,2023-01-12,167.7 x 78 x 9.1 mm (6.60 x 3.07 x 0.36 in),202.0,LCD,6.6,Android,True,,Octa-Core,2023,400,medium price
+Samsung,Samsung Galaxy A14 5G,128,4,2023-01-12,167.7 x 78 x 9.1 mm (6.60 x 3.07 x 0.36 in),202.0,LCD,6.6,Android,True,5000.0,Octa-Core,2023,400,medium price
+Samsung,Samsung Galaxy A14 5G,128,4,2023-01-12,167.7 x 78 x 9.1 mm (6.60 x 3.07 x 0.36 in),202.0,LCD,6.6,Android,True,5000.0,Octa-Core,2023,400,medium price
+Samsung,Samsung Galaxy A14 5G,128,4,2023-01-12,167.7 x 78 x 9.1 mm (6.60 x 3.07 x 0.36 in),202.0,LCD,6.6,Android,True,5000.0,Octa-Core,2023,400,medium price
+Samsung,Samsung Galaxy A14 5G,128,6,2023-01-12,167.7 x 78 x 9.1 mm (6.60 x 3.07 x 0.36 in),202.0,LCD,6.6,Android,True,5000.0,Octa-Core,2023,400,medium price
+Samsung,Samsung Galaxy A14 5G,128,8,2023-01-12,167.7 x 78 x 9.1 mm (6.60 x 3.07 x 0.36 in),202.0,LCD,6.6,Android,True,5000.0,Octa-Core,2023,400,medium price
+Xiaomi,Xiaomi Poco X5 Pro,256,8,2023-02-07,162.9 x 76 x 7.9 mm (6.41 x 2.99 x 0.31 in),181.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Poco X5,256,8,2023-02-07,165.9 x 76.2 x 8 mm (6.53 x 3.00 x 0.31 in),189.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Poco X5 Pro,256,8,2023-02-07,162.9 x 76 x 7.9 mm (6.41 x 2.99 x 0.31 in),181.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Poco X5,256,8,2023-02-07,165.9 x 76.2 x 8 mm (6.53 x 3.00 x 0.31 in),189.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Poco X5 Pro,256,8,2023-02-07,162.9 x 76 x 7.9 mm (6.41 x 2.99 x 0.31 in),181.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Poco X5 Pro,256,8,2023-02-07,162.9 x 76 x 7.9 mm (6.41 x 2.99 x 0.31 in),181.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Samsung,Samsung Galaxy S23,256,8,2023-02-17,146.3 x 70.9 x 7.6 mm (5.76 x 2.79 x 0.30 in),168.0,AMOLED,6.1,Android,True,3900.0,Octa-Core,2023,425,medium price
+Samsung,Samsung Galaxy S23,512,8,2023-02-17,146.3 x 70.9 x 7.6 mm (5.76 x 2.79 x 0.30 in),168.0,AMOLED,6.1,Android,True,3900.0,Octa-Core,2023,425,medium price
+Samsung,Samsung Galaxy S23+,512,8,2023-02-17,157.8 x 76.2 x 7.6 mm (6.21 x 3.00 x 0.30 in),196.0,AMOLED,6.6,Android,True,4700.0,Octa-Core,2023,393,medium price
+Samsung,Samsung Galaxy S23 Ultra,512,12,2023-02-17,163.4 x 78.1 x 8.9 mm (6.43 x 3.07 x 0.35 in),234.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2023,500,medium price
+Samsung,,1000,12,2023-02-17,163.4 x 78.1 x 8.9 mm (6.43 x 3.07 x 0.35 in),234.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2023,500,medium price
+Samsung,Samsung Galaxy S23,256,8,2023-02-17,146.3 x 70.9 x 7.6 mm (5.76 x 2.79 x 0.30 in),168.0,AMOLED,6.1,Android,True,3900.0,Octa-Core,2023,425,medium price
+Samsung,Samsung Galaxy S23,512,8,2023-02-17,146.3 x 70.9 x 7.6 mm (5.76 x 2.79 x 0.30 in),168.0,AMOLED,6.1,Android,True,3900.0,Octa-Core,2023,425,medium price
+Samsung,Samsung Galaxy S23,256,8,2023-02-17,146.3 x 70.9 x 7.6 mm (5.76 x 2.79 x 0.30 in),168.0,AMOLED,6.1,Android,True,3900.0,Octa-Core,2023,425,medium price
+Samsung,Samsung Galaxy S23,256,8,2023-02-17,146.3 x 70.9 x 7.6 mm (5.76 x 2.79 x 0.30 in),168.0,AMOLED,6.1,Android,True,3900.0,Octa-Core,2023,425,medium price
+Samsung,Samsung Galaxy S23,512,8,2023-02-17,146.3 x 70.9 x 7.6 mm (5.76 x 2.79 x 0.30 in),168.0,AMOLED,6.1,Android,True,3900.0,Octa-Core,2023,425,medium price
+Samsung,Samsung Galaxy S23+,512,8,2023-02-17,157.8 x 76.2 x 7.6 mm (6.21 x 3.00 x 0.30 in),196.0,AMOLED,6.6,Android,True,4700.0,Octa-Core,2023,393,medium price
+Samsung,Samsung Galaxy S23+,512,8,2023-02-17,157.8 x 76.2 x 7.6 mm (6.21 x 3.00 x 0.30 in),196.0,AMOLED,6.6,Android,True,4700.0,Octa-Core,2023,393,high price
+Samsung,Samsung Galaxy S23+,512,8,2023-02-17,157.8 x 76.2 x 7.6 mm (6.21 x 3.00 x 0.30 in),196.0,AMOLED,6.6,Android,True,4700.0,Octa-Core,2023,393,high price
+Samsung,Samsung Galaxy S23 Ultra,256,12,2023-02-17,163.4 x 78.1 x 8.9 mm (6.43 x 3.07 x 0.35 in),234.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2023,500,medium price
+Samsung,Samsung Galaxy S23 Ultra,512,12,2023-02-17,163.4 x 78.1 x 8.9 mm (6.43 x 3.07 x 0.35 in),234.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2023,500,medium price
+Samsung,Samsung Galaxy S23 Ultra,1000,12,2023-02-17,163.4 x 78.1 x 8.9 mm (6.43 x 3.07 x 0.35 in),234.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2023,500,medium price
+Samsung,Samsung Galaxy S23 Ultra,256,12,2023-02-17,163.4 x 78.1 x 8.9 mm (6.43 x 3.07 x 0.35 in),234.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2023,500,medium price
+Samsung,Samsung Galaxy S23,256,8,2023-02-17,146.3 x 70.9 x 7.6 mm (5.76 x 2.79 x 0.30 in),168.0,AMOLED,6.1,Android,True,3900.0,Octa-Core,2023,425,medium price
+Samsung,,512,8,2023-02-17,146.3 x 70.9 x 7.6 mm (5.76 x 2.79 x 0.30 in),168.0,AMOLED,6.1,Android,True,3900.0,Octa-Core,2023,425,medium price
+Samsung,,512,8,2023-02-17,157.8 x 76.2 x 7.6 mm (6.21 x 3.00 x 0.30 in),196.0,AMOLED,6.6,Android,True,4700.0,Octa-Core,2023,393,medium price
+Samsung,Samsung Galaxy S23 Ultra,256,12,2023-02-17,163.4 x 78.1 x 8.9 mm (6.43 x 3.07 x 0.35 in),234.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2023,500,medium price
+Samsung,Samsung Galaxy S23 Ultra,512,12,2023-02-17,163.4 x 78.1 x 8.9 mm (6.43 x 3.07 x 0.35 in),234.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2023,500,high price
+Samsung,Samsung Galaxy S23 Ultra,1000,12,2023-02-17,163.4 x 78.1 x 8.9 mm (6.43 x 3.07 x 0.35 in),234.0,AMOLED,6.8,Android,True,5000.0,Octa-Core,2023,500,medium price
+Xiaomi,Xiaomi 13 Lite,256,8,2023-03-08,159.2 x 72.7 x 7.2 mm (6.27 x 2.86 x 0.28 in),171.0,AMOLED,6.55,Android,True,4500.0,Octa-Core,2023,402,medium price
+Xiaomi,Xiaomi 13 Lite,256,8,2023-03-08,159.2 x 72.7 x 7.2 mm (6.27 x 2.86 x 0.28 in),171.0,AMOLED,6.55,Android,True,4500.0,Octa-Core,2023,402,medium price
+Xiaomi,Xiaomi 13 Lite,256,8,2023-03-08,159.2 x 72.7 x 7.2 mm (6.27 x 2.86 x 0.28 in),171.0,AMOLED,6.55,Android,True,4500.0,Octa-Core,2023,402,medium price
+Samsung,Samsung Galaxy A34,256,8,2023-03-24,161.3 x 78.1 x 8.2 mm (6.35 x 3.07 x 0.32 in),199.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2023,390,medium price
+Samsung,Samsung Galaxy A54,128,8,2023-03-24,158.2 x 76.7 x 8.2 mm (6.23 x 3.02 x 0.32 in),202.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2023,403,medium price
+Samsung,Samsung Galaxy A54,256,8,2023-03-24,158.2 x 76.7 x 8.2 mm (6.23 x 3.02 x 0.32 in),202.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2023,403,medium price
+Xiaomi,Xiaomi Redmi A2+,32,3,2023-03-24,164.9 x 76.8 x 9.1 mm (6.49 x 3.02 x 0.36 in),192.0,LCD,6.52,Android,False,5000.0,Octa-Core,2023,269,low price
+Xiaomi,Xiaomi Redmi A2,64,3,2023-03-24,164.9 x 76.8 x 9.1 mm (6.49 x 3.02 x 0.36 in),192.0,LCD,6.52,Android,False,5000.0,Octa-Core,2023,269,low price
+Samsung,Samsung Galaxy A34,128,8,2023-03-24,161.3 x 78.1 x 8.2 mm (6.35 x 3.07 x 0.32 in),199.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2023,390,medium price
+Samsung,Samsung Galaxy A54,128,8,2023-03-24,158.2 x 76.7 x 8.2 mm (6.23 x 3.02 x 0.32 in),202.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2023,403,medium price
+Samsung,Samsung Galaxy A54,256,8,2023-03-24,158.2 x 76.7 x 8.2 mm (6.23 x 3.02 x 0.32 in),202.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2023,403,medium price
+Xiaomi,Xiaomi Redmi A2,64,2,2023-03-24,164.9 x 76.8 x 9.1 mm (6.49 x 3.02 x 0.36 in),192.0,LCD,6.52,Android,False,5000.0,Octa-Core,2023,269,low price
+Samsung,Samsung Galaxy A34,128,8,2023-03-24,161.3 x 78.1 x 8.2 mm (6.35 x 3.07 x 0.32 in),199.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2023,390,medium price
+Samsung,Samsung Galaxy A34,256,8,2023-03-24,161.3 x 78.1 x 8.2 mm (6.35 x 3.07 x 0.32 in),199.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2023,390,medium price
+Samsung,Samsung Galaxy A54,128,8,2023-03-24,158.2 x 76.7 x 8.2 mm (6.23 x 3.02 x 0.32 in),202.0,AMOLED,6.4,Android,True,,Octa-Core,2023,403,medium price
+Samsung,Samsung Galaxy A54,256,8,2023-03-24,158.2 x 76.7 x 8.2 mm (6.23 x 3.02 x 0.32 in),202.0,AMOLED,6.4,Android,True,5000.0,Octa-Core,2023,403,medium price
+Xiaomi,Xiaomi Redmi A2+,32,3,2023-03-24,164.9 x 76.8 x 9.1 mm (6.49 x 3.02 x 0.36 in),192.0,LCD,6.52,Android,False,5000.0,Octa-Core,2023,269,low price
+Xiaomi,Xiaomi Redmi A2,64,3,2023-03-24,164.9 x 76.8 x 9.1 mm (6.49 x 3.02 x 0.36 in),192.0,LCD,6.52,Android,False,5000.0,Octa-Core,2023,269,low price
+Xiaomi,Xiaomi Redmi A2+,32,3,2023-03-24,164.9 x 76.8 x 9.1 mm (6.49 x 3.02 x 0.36 in),192.0,LCD,6.52,Android,False,,Octa-Core,2023,269,low price
+Xiaomi,Xiaomi Redmi A2+,64,3,2023-03-24,164.9 x 76.8 x 9.1 mm (6.49 x 3.02 x 0.36 in),192.0,LCD,6.52,Android,False,5000.0,Octa-Core,2023,269,low price
+Xiaomi,Xiaomi Redmi A2,32,3,2023-03-24,164.9 x 76.8 x 9.1 mm (6.49 x 3.02 x 0.36 in),192.0,LCD,6.52,Android,False,5000.0,Octa-Core,2023,269,low price
+Samsung,Samsung Galaxy A14,128,4,2023-03-27,167.7 x 78 x 9.1 mm (6.60 x 3.07 x 0.36 in),201.0,LCD,6.6,Android,True,5000.0,Octa-Core,2023,400,low price
+Samsung,Samsung Galaxy A14,128,6,2023-03-27,167.7 x 78 x 9.1 mm (6.60 x 3.07 x 0.36 in),201.0,LCD,6.6,Android,True,5000.0,Octa-Core,2023,400,medium price
+Samsung,Samsung Galaxy A14,128,4,2023-03-27,167.7 x 78 x 9.1 mm (6.60 x 3.07 x 0.36 in),201.0,LCD,6.6,Android,True,5000.0,Octa-Core,2023,400,medium price
+Samsung,Samsung Galaxy A14,128,4,2023-03-27,167.7 x 78 x 9.1 mm (6.60 x 3.07 x 0.36 in),201.0,LCD,6.6,Android,True,5000.0,Octa-Core,2023,400,low price
+Samsung,Samsung Galaxy A14,128,6,2023-03-27,167.7 x 78 x 9.1 mm (6.60 x 3.07 x 0.36 in),201.0,LCD,6.6,Android,True,5000.0,Octa-Core,2023,400,medium price
+Xiaomi,Xiaomi Redmi Note 12 4G,128,4,2023-03-30,165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in),183.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,low price
+Xiaomi,Xiaomi Redmi Note 12 4G,128,6,2023-03-30,165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in),183.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 4G,128,8,2023-03-30,165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in),183.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 4G,256,8,2023-03-30,165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in),183.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 4G,128,4,2023-03-30,165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in),183.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 4G,128,6,2023-03-30,165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in),183.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 4G,128,4,2023-03-30,165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in),183.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 4G,128,6,2023-03-30,165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in),183.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 4G,128,4,2023-03-30,165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in),183.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,,128,6,2023-03-30,165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in),183.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 4G,128,8,2023-03-30,165.7 x 76 x 7.9 mm (6.52 x 2.99 x 0.31 in),183.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro 4G,128,8,2023-04-11,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),201.8,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro 4G,256,8,2023-04-11,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),201.8,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro 4G,128,8,2023-04-11,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),201.8,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro 4G,256,8,2023-04-11,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),201.8,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro 4G,128,8,2023-04-11,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),201.8,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Redmi Note 12 Pro 4G,128,8,2023-04-11,164.2 x 76.1 x 8.1 mm (6.46 x 3.00 x 0.32 in),201.8,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi 13 Ultra,512,12,2023-04-21,163.2 x 74.6 x 9.1 mm (6.43 x 2.94 x 0.36 in),227.0,AMOLED,6.73,Android,True,5000.0,Octa-Core,2023,522,high price
+Xiaomi,Xiaomi 13 Ultra,512,16,2023-04-21,163.2 x 74.6 x 9.1 mm (6.43 x 2.94 x 0.36 in),227.0,AMOLED,6.73,Android,True,5000.0,Octa-Core,2023,522,high price
+Xiaomi,Xiaomi 13 Ultra,512,12,2023-04-21,163.2 x 74.6 x 9.1 mm (6.43 x 2.94 x 0.36 in),227.0,AMOLED,6.73,Android,True,5000.0,Octa-Core,2023,522,high price
+Xiaomi,Xiaomi Redmi Note 12S,128,6,2023-04-26,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),176.0,AMOLED,6.43,Android,True,,Octa-Core,2023,409,medium price
+Xiaomi,Xiaomi Redmi Note 12S,256,8,2023-04-26,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),176.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2023,409,medium price
+Xiaomi,Xiaomi Redmi Note 12S,128,6,2023-04-26,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),176.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2023,409,medium price
+Xiaomi,Xiaomi Redmi Note 12S,128,6,2023-04-26,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),176.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2023,409,medium price
+Xiaomi,Xiaomi Redmi Note 12S,128,6,2023-04-26,159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in),176.0,AMOLED,6.43,Android,True,5000.0,Octa-Core,2023,409,medium price
+Xiaomi,Xiaomi Poco F5 Pro,256,12,2023-05-01,162.8 x 75.4 x 8.6 mm (6.41 x 2.97 x 0.34 in),204.0,AMOLED,6.67,Android,True,5160.0,Octa-Core,2023,526,medium price
+Xiaomi,Xiaomi Poco F5 Pro,512,12,2023-05-01,162.8 x 75.4 x 8.6 mm (6.41 x 2.97 x 0.34 in),204.0,AMOLED,6.67,Android,True,5160.0,Octa-Core,2023,526,medium price
+Xiaomi,Xiaomi Poco F5,256,12,2023-05-01,161.1 x 75 x 7.9 mm (6.34 x 2.95 x 0.31 in),181.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Poco F5 Pro,256,12,2023-05-01,162.8 x 75.4 x 8.6 mm (6.41 x 2.97 x 0.34 in),204.0,AMOLED,6.67,Android,True,5160.0,Octa-Core,2023,526,medium price
+Xiaomi,Xiaomi Poco F5 Pro,512,12,2023-05-01,162.8 x 75.4 x 8.6 mm (6.41 x 2.97 x 0.34 in),204.0,AMOLED,6.67,Android,True,5160.0,Octa-Core,2023,526,medium price
+Xiaomi,Xiaomi Poco F5,256,12,2023-05-01,161.1 x 75 x 7.9 mm (6.34 x 2.95 x 0.31 in),181.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Poco F5 Pro,256,12,2023-05-01,162.8 x 75.4 x 8.6 mm (6.41 x 2.97 x 0.34 in),204.0,AMOLED,6.67,Android,True,5160.0,Octa-Core,2023,526,medium price
+Xiaomi,Xiaomi Poco F5,256,12,2023-05-01,161.1 x 75 x 7.9 mm (6.34 x 2.95 x 0.31 in),181.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,395,medium price
+Xiaomi,Xiaomi Poco F5 Pro,256,12,2023-05-01,162.8 x 75.4 x 8.6 mm (6.41 x 2.97 x 0.34 in),204.0,AMOLED,6.67,Android,True,5160.0,Octa-Core,2023,526,medium price
+Samsung,Samsung Galaxy A24 4G,128,6,2023-05-05,162.1 x 77.6 x 8.3 mm (6.38 x 3.06 x 0.33 in),195.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,
+Xiaomi,Xiaomi Redmi 12,128,8,2023-06-15,168.6 x 76.3 x 8.2 mm (6.64 x 3.00 x 0.32 in),198.5,LCD,6.79,Android,True,5000.0,Octa-Core,2023,396,low price
+Xiaomi,,256,8,2023-06-15,168.6 x 76.3 x 8.2 mm (6.64 x 3.00 x 0.32 in),198.5,LCD,6.79,Android,True,5000.0,Octa-Core,2023,396,medium price
+Xiaomi,Xiaomi Redmi 12,128,8,2023-06-15,168.6 x 76.3 x 8.2 mm (6.64 x 3.00 x 0.32 in),198.5,LCD,6.79,Android,True,5000.0,Octa-Core,2023,396,medium price
+Xiaomi,Xiaomi Redmi 12,256,8,2023-06-15,168.6 x 76.3 x 8.2 mm (6.64 x 3.00 x 0.32 in),198.5,LCD,6.79,Android,True,,Octa-Core,2023,396,medium price
+Xiaomi,Xiaomi Redmi 12,128,8,2023-06-15,168.6 x 76.3 x 8.2 mm (6.64 x 3.00 x 0.32 in),198.5,LCD,6.79,Android,True,5000.0,Octa-Core,2023,396,medium price
+Xiaomi,Xiaomi Redmi 12,128,8,2023-06-15,168.6 x 76.3 x 8.2 mm (6.64 x 3.00 x 0.32 in),198.5,LCD,6.79,Android,True,5000.0,Octa-Core,2023,396,medium price
+Xiaomi,Xiaomi Redmi 12 5G,128,6,2023-08-04,168.6 x 76.3 x 8.2 mm (6.64 x 3.00 x 0.32 in),199.0,LCD,6.79,Android,False,5000.0,Octa-Core,2023,396,medium price
+Samsung,Samsung Galaxy Z Fold5,512,12,2023-08-11,154.9 x 129.9 x 6.1 mm,253.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2023,373,high price
+Samsung,Samsung Galaxy Z Fold5,1000,12,2023-08-11,154.9 x 129.9 x 6.1 mm,253.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2023,373,medium price
+Samsung,Samsung Galaxy Z Flip5,512,8,2023-08-11,165.1 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,3700.0,Octa-Core,2023,425,medium price
+Samsung,Samsung Galaxy Z Fold5,512,12,2023-08-11,154.9 x 129.9 x 6.1 mm,253.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2023,373,high price
+Samsung,Samsung Galaxy Z Fold5,1000,12,2023-08-11,154.9 x 129.9 x 6.1 mm,253.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2023,373,medium price
+Samsung,Samsung Galaxy Z Fold5,512,12,2023-08-11,154.9 x 129.9 x 6.1 mm,253.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2023,373,high price
+Samsung,Samsung Galaxy Z Fold5,1000,12,2023-08-11,154.9 x 129.9 x 6.1 mm,253.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2023,373,high price
+Samsung,Samsung Galaxy Z Fold5,512,12,2023-08-11,154.9 x 129.9 x 6.1 mm,253.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2023,373,high price
+Samsung,Samsung Galaxy Z Flip5,512,8,2023-08-11,165.1 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,3700.0,Octa-Core,2023,425,medium price
+Samsung,Samsung Galaxy Z Flip5,512,8,2023-08-11,165.1 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,3700.0,Octa-Core,2023,425,high price
+Samsung,Samsung Galaxy Z Flip5,512,8,2023-08-11,165.1 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,3700.0,Octa-Core,2023,425,high price
+Samsung,Samsung Galaxy Z Fold5,512,12,2023-08-11,154.9 x 129.9 x 6.1 mm,253.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2023,373,medium price
+Samsung,Samsung Galaxy Z Fold5,1000,12,2023-08-11,154.9 x 129.9 x 6.1 mm,253.0,AMOLED,7.6,Android,True,4400.0,Octa-Core,2023,373,medium price
+Samsung,Samsung Galaxy Z Flip5,512,8,2023-08-11,165.1 x 71.9 x 6.9 mm,187.0,AMOLED,6.7,Android,True,3700.0,Octa-Core,2023,425,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro,512,12,2023-09-21,161.2 x 74.2 x 8 mm (6.35 x 2.92 x 0.31 in),187.0,AMOLED,6.67,Android,True,5100.0,Octa-Core,2023,446,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro+,512,8,2023-09-21,161.4 x 74.2 x 8.9 mm (6.35 x 2.92 x 0.35 in),199.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,446,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro+,512,12,2023-09-21,161.4 x 74.2 x 8.9 mm (6.35 x 2.92 x 0.35 in),199.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,446,medium price
+Xiaomi,,512,12,2023-09-21,161.2 x 74.2 x 8 mm (6.35 x 2.92 x 0.31 in),187.0,AMOLED,6.67,Android,True,5100.0,Octa-Core,2023,446,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro+,512,12,2023-09-21,161.4 x 74.2 x 8.9 mm (6.35 x 2.92 x 0.35 in),199.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,446,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro,512,12,2023-09-21,161.2 x 74.2 x 8 mm (6.35 x 2.92 x 0.31 in),187.0,AMOLED,6.67,Android,True,5100.0,Octa-Core,2023,446,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro+,512,8,2023-09-21,161.4 x 74.2 x 8.9 mm (6.35 x 2.92 x 0.35 in),199.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,446,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro+,512,12,2023-09-21,161.4 x 74.2 x 8.9 mm (6.35 x 2.92 x 0.35 in),199.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,446,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro,256,8,2023-09-21,161.2 x 74.2 x 8 mm (6.35 x 2.92 x 0.31 in),187.0,AMOLED,6.67,Android,True,5100.0,Octa-Core,2023,446,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro,256,12,2023-09-21,161.2 x 74.2 x 8 mm (6.35 x 2.92 x 0.31 in),187.0,AMOLED,6.67,Android,True,5100.0,Octa-Core,2023,446,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro+,256,12,2023-09-21,161.4 x 74.2 x 8.9 mm (6.35 x 2.92 x 0.35 in),199.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,446,medium price
+Apple,Apple iPhone 15,256,6,2023-09-22,147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in),171.0,OLED,6.1,iOS,True,3349.0,Hexa-Core,2023,461,medium price
+Apple,Apple iPhone 15,512,6,2023-09-22,147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in),171.0,OLED,6.1,iOS,True,3349.0,Hexa-Core,2023,461,medium price
+Apple,Apple iPhone 15 Pro Max,512,8,2023-09-22,159.9 x 76.7 x 8.3 mm (6.30 x 3.02 x 0.33 in),221.0,OLED,6.7,iOS,True,4441.0,Hexa-Core,2023,460,high price
+Apple,Apple iPhone 15 Pro Max,1000,8,2023-09-22,159.9 x 76.7 x 8.3 mm (6.30 x 3.02 x 0.33 in),221.0,OLED,6.7,iOS,True,4441.0,Hexa-Core,2023,460,high price
+Apple,Apple iPhone 15 Plus,256,6,2023-09-22,160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in),201.0,OLED,6.7,iOS,True,4383.0,Hexa-Core,2023,460,medium price
+Apple,Apple iPhone 15 Plus,512,6,2023-09-22,160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in),201.0,OLED,6.7,iOS,True,4383.0,Hexa-Core,2023,460,medium price
+Apple,,256,8,2023-09-22,146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in),187.0,OLED,6.1,iOS,True,,Hexa-Core,2023,461,medium price
+Apple,,512,8,2023-09-22,146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in),187.0,OLED,6.1,iOS,True,3274.0,Hexa-Core,2023,461,high price
+Apple,Apple iPhone 15 Pro,1000,8,2023-09-22,146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in),187.0,OLED,6.1,iOS,True,3274.0,Hexa-Core,2023,461,high price
+Apple,Apple iPhone 15,256,6,2023-09-22,147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in),171.0,OLED,6.1,iOS,True,3349.0,Hexa-Core,2023,461,medium price
+Apple,Apple iPhone 15,512,6,2023-09-22,147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in),171.0,OLED,6.1,iOS,True,3349.0,Hexa-Core,2023,461,medium price
+Apple,Apple iPhone 15,256,6,2023-09-22,147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in),171.0,OLED,6.1,iOS,True,,Hexa-Core,2023,461,medium price
+Apple,Apple iPhone 15,512,6,2023-09-22,147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in),171.0,OLED,6.1,iOS,True,3349.0,Hexa-Core,2023,461,medium price
+Apple,Apple iPhone 15 Pro Max,512,8,2023-09-22,159.9 x 76.7 x 8.3 mm (6.30 x 3.02 x 0.33 in),221.0,OLED,6.7,iOS,True,4441.0,Hexa-Core,2023,460,medium price
+Apple,Apple iPhone 15 Pro Max,1000,8,2023-09-22,159.9 x 76.7 x 8.3 mm (6.30 x 3.02 x 0.33 in),221.0,OLED,6.7,iOS,True,4441.0,Hexa-Core,2023,460,high price
+Apple,Apple iPhone 15 Pro Max,512,8,2023-09-22,159.9 x 76.7 x 8.3 mm (6.30 x 3.02 x 0.33 in),221.0,OLED,6.7,iOS,True,4441.0,Hexa-Core,2023,460,high price
+Apple,Apple iPhone 15 Pro Max,1000,8,2023-09-22,159.9 x 76.7 x 8.3 mm (6.30 x 3.02 x 0.33 in),221.0,OLED,6.7,iOS,True,4441.0,Hexa-Core,2023,460,high price
+Apple,Apple iPhone 15 Plus,256,6,2023-09-22,160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in),201.0,OLED,6.7,iOS,True,4383.0,Hexa-Core,2023,460,medium price
+Apple,,512,6,2023-09-22,160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in),201.0,OLED,6.7,iOS,True,4383.0,Hexa-Core,2023,460,medium price
+Apple,Apple iPhone 15 Plus,256,6,2023-09-22,160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in),201.0,OLED,6.7,iOS,True,4383.0,Hexa-Core,2023,460,medium price
+Apple,Apple iPhone 15 Plus,512,6,2023-09-22,160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in),201.0,OLED,6.7,iOS,True,4383.0,Hexa-Core,2023,460,high price
+Apple,Apple iPhone 15 Pro,256,8,2023-09-22,146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in),187.0,OLED,6.1,iOS,True,3274.0,Hexa-Core,2023,461,medium price
+Apple,Apple iPhone 15 Pro,512,8,2023-09-22,146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in),187.0,OLED,6.1,iOS,True,3274.0,Hexa-Core,2023,461,medium price
+Apple,Apple iPhone 15 Pro,1000,8,2023-09-22,146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in),187.0,OLED,6.1,iOS,True,3274.0,Hexa-Core,2023,461,medium price
+Apple,Apple iPhone 15 Pro,256,8,2023-09-22,146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in),187.0,OLED,6.1,iOS,True,3274.0,Hexa-Core,2023,461,high price
+Apple,Apple iPhone 15 Pro,512,8,2023-09-22,146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in),187.0,OLED,6.1,iOS,True,3274.0,Hexa-Core,2023,461,high price
+Apple,Apple iPhone 15 Pro,1000,8,2023-09-22,146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in),187.0,OLED,6.1,iOS,True,3274.0,Hexa-Core,2023,461,high price
+Apple,Apple iPhone 15,256,6,2023-09-22,147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in),171.0,OLED,6.1,iOS,True,3349.0,Hexa-Core,2023,461,medium price
+Apple,Apple iPhone 15,512,6,2023-09-22,147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in),171.0,OLED,6.1,iOS,True,3349.0,Hexa-Core,2023,461,medium price
+Apple,Apple iPhone 15 Pro Max,512,8,2023-09-22,159.9 x 76.7 x 8.3 mm (6.30 x 3.02 x 0.33 in),221.0,OLED,6.7,iOS,True,4441.0,Hexa-Core,2023,460,high price
+Apple,Apple iPhone 15 Pro Max,1000,8,2023-09-22,159.9 x 76.7 x 8.3 mm (6.30 x 3.02 x 0.33 in),221.0,OLED,6.7,iOS,True,4441.0,Hexa-Core,2023,460,high price
+Apple,Apple iPhone 15 Plus,256,6,2023-09-22,160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in),201.0,OLED,6.7,iOS,True,4383.0,Hexa-Core,2023,460,medium price
+Apple,Apple iPhone 15 Plus,512,6,2023-09-22,160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in),201.0,OLED,6.7,iOS,True,4383.0,Hexa-Core,2023,460,medium price
+Apple,Apple iPhone 15 Pro,256,8,2023-09-22,146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in),187.0,OLED,6.1,iOS,True,3274.0,Hexa-Core,2023,461,medium price
+Apple,Apple iPhone 15 Pro,512,8,2023-09-22,146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in),187.0,OLED,6.1,iOS,True,3274.0,Hexa-Core,2023,461,high price
+Apple,Apple iPhone 15 Pro,1000,8,2023-09-22,146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in),187.0,OLED,6.1,iOS,True,3274.0,Hexa-Core,2023,461,high price
+Xiaomi,Xiaomi 13T Pro,512,12,2023-09-26,162.2 x 75.7 x 8.5 mm (6.39 x 2.98 x 0.33 in),200.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,446,medium price
+Xiaomi,Xiaomi 13T Pro,1000,16,2023-09-26,162.2 x 75.7 x 8.5 mm (6.39 x 2.98 x 0.33 in),200.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,446,high price
+Xiaomi,,512,12,2023-09-26,162.2 x 75.7 x 8.5 mm (6.39 x 2.98 x 0.33 in),200.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,446,medium price
+Xiaomi,Xiaomi 13T Pro,1000,16,2023-09-26,162.2 x 75.7 x 8.5 mm (6.39 x 2.98 x 0.33 in),200.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,446,high price
+Xiaomi,Xiaomi 13T,256,12,2023-09-26,162.2 x 75.7 x 8.5 mm (6.39 x 2.98 x 0.33 in),193.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,446,medium price
+Xiaomi,Xiaomi 13T Pro,512,12,2023-09-26,162.2 x 75.7 x 8.5 mm (6.39 x 2.98 x 0.33 in),200.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,446,medium price
+Xiaomi,Xiaomi 13T,256,12,2023-09-26,162.2 x 75.7 x 8.5 mm (6.39 x 2.98 x 0.33 in),193.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,446,medium price
+Xiaomi,Xiaomi 13T Pro,512,12,2023-09-26,162.2 x 75.7 x 8.5 mm (6.39 x 2.98 x 0.33 in),200.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2023,446,medium price
+Samsung,Samsung Galaxy S23 FE,256,8,2023-10-05,158 x 76.5 x 8.2 mm (6.22 x 3.01 x 0.32 in),209.0,AMOLED,6.4,Android,True,4500.0,Octa-Core,2023,403,medium price
+Samsung,Samsung Galaxy S23 FE,256,8,2023-10-05,158 x 76.5 x 8.2 mm (6.22 x 3.01 x 0.32 in),209.0,AMOLED,6.4,Android,True,4500.0,Octa-Core,2023,403,medium price
+Samsung,Samsung Galaxy S23 FE,256,8,2023-10-05,158 x 76.5 x 8.2 mm (6.22 x 3.01 x 0.32 in),209.0,AMOLED,6.4,Android,True,4500.0,Octa-Core,2023,403,medium price
+Samsung,Samsung Galaxy S23 FE,256,8,2023-10-05,158 x 76.5 x 8.2 mm (6.22 x 3.01 x 0.32 in),209.0,AMOLED,6.4,Android,True,4500.0,Octa-Core,2023,403,medium price
+Samsung,Samsung Galaxy S23 FE,256,8,2023-10-05,158 x 76.5 x 8.2 mm (6.22 x 3.01 x 0.32 in),209.0,AMOLED,6.4,Android,True,4500.0,Octa-Core,2023,403,medium price
+Samsung,Samsung Galaxy A05,128,4,2023-10-15,168.8 x 78.2 x 8.8 mm (6.65 x 3.08 x 0.35 in),195.0,LCD,6.7,Android,False,5000.0,Octa-Core,2023,262,low price
+Samsung,Samsung Galaxy A05,128,6,2023-10-15,168.8 x 78.2 x 8.8 mm (6.65 x 3.08 x 0.35 in),195.0,LCD,6.7,Android,False,5000.0,Octa-Core,2023,262,low price
+Samsung,Samsung Galaxy A05,128,6,2023-10-15,168.8 x 78.2 x 8.8 mm (6.65 x 3.08 x 0.35 in),195.0,LCD,6.7,Android,False,5000.0,Octa-Core,2023,262,low price
+Samsung,Samsung Galaxy Tab S9 FE+,256,12,2023-10-16,285.4 x 185.4 x 6.5 mm (11.24 x 7.30 x 0.26 in),627.0,LCD,12.4,Android,False,,Octa-Core,2023,243,medium price
+Samsung,Samsung Galaxy Tab S9 FE,256,8,2023-10-16,254.3 x 165.8 x 6.5 mm (10.01 x 6.53 x 0.26 in),523.0,LCD,10.9,Android,False,8000.0,Octa-Core,2023,249,medium price
+Samsung,Samsung Galaxy A05s,128,4,2023-10-18,168 x 77.8 x 8.8 mm (6.61 x 3.06 x 0.35 in),194.0,LCD,6.7,Android,True,5000.0,Octa-Core,2023,393,medium price
+Samsung,Samsung Galaxy A05s,128,6,2023-10-18,168 x 77.8 x 8.8 mm (6.61 x 3.06 x 0.35 in),194.0,LCD,6.7,Android,True,5000.0,Octa-Core,2023,393,medium price
+Samsung,Samsung Galaxy A05s,128,4,2023-10-18,168 x 77.8 x 8.8 mm (6.61 x 3.06 x 0.35 in),194.0,LCD,6.7,Android,True,,Octa-Core,2023,393,low price
+Samsung,Samsung Galaxy A05s,128,4,2023-10-18,168 x 77.8 x 8.8 mm (6.61 x 3.06 x 0.35 in),194.0,LCD,6.7,Android,True,5000.0,Octa-Core,2023,393,medium price
+Samsung,Samsung Galaxy A05s,128,6,2023-10-18,168 x 77.8 x 8.8 mm (6.61 x 3.06 x 0.35 in),194.0,LCD,6.7,Android,True,5000.0,Octa-Core,2023,393,medium price
+Xiaomi,Xiaomi 14,512,12,2023-11-01,152.8 x 71.5 x 8.2 mm or 8.3 mm,188.0,OLED,6.36,Android,True,4610.0,Octa-Core,2023,460,medium price
+Xiaomi,Xiaomi 14,512,12,2023-11-01,152.8 x 71.5 x 8.2 mm or 8.3 mm,188.0,OLED,6.36,Android,True,4610.0,Octa-Core,2023,460,medium price
+Xiaomi,Xiaomi 14,512,12,2023-11-01,152.8 x 71.5 x 8.2 mm or 8.3 mm,188.0,OLED,6.36,Android,True,4610.0,Octa-Core,2023,460,medium price
+Xiaomi,Xiaomi 14,256,12,2023-11-01,152.8 x 71.5 x 8.2 mm or 8.3 mm,188.0,OLED,6.36,Android,True,4610.0,Octa-Core,2023,460,medium price
+Xiaomi,Xiaomi Poco C65,256,8,2023-11-06,168 x 78 x 8.1 mm (6.61 x 3.07 x 0.32 in),192.0,LCD,6.74,Android,True,5000.0,Octa-Core,2023,260,medium price
+Xiaomi,Xiaomi Poco C65,256,8,2023-11-06,168 x 78 x 8.1 mm (6.61 x 3.07 x 0.32 in),192.0,LCD,6.74,Android,True,5000.0,Octa-Core,2023,260,medium price
+Xiaomi,Xiaomi Poco C65,256,8,2023-11-06,168 x 78 x 8.1 mm (6.61 x 3.07 x 0.32 in),192.0,LCD,6.74,Android,True,5000.0,Octa-Core,2023,260,medium price
+Xiaomi,,256,8,2023-11-06,168 x 78 x 8.1 mm (6.61 x 3.07 x 0.32 in),192.0,LCD,6.74,Android,True,5000.0,Octa-Core,2023,260,low price
+Xiaomi,Xiaomi Redmi 13C,128,6,2023-11-10,168 x 78 x 8.1 mm (6.61 x 3.07 x 0.32 in),192.0,LCD,6.74,Android,True,5000.0,Octa-Core,2023,260,low price
+Xiaomi,Xiaomi Redmi 13C,256,8,2023-11-10,168 x 78 x 8.1 mm (6.61 x 3.07 x 0.32 in),192.0,LCD,6.74,Android,True,5000.0,Octa-Core,2023,260,medium price
+Xiaomi,Xiaomi Redmi 13C,128,6,2023-11-10,168 x 78 x 8.1 mm (6.61 x 3.07 x 0.32 in),192.0,LCD,6.74,Android,True,5000.0,Octa-Core,2023,260,medium price
+Xiaomi,Xiaomi Redmi 13C,256,8,2023-11-10,168 x 78 x 8.1 mm (6.61 x 3.07 x 0.32 in),192.0,LCD,6.74,Android,True,5000.0,Octa-Core,2023,260,medium price
+Xiaomi,Xiaomi Redmi 13C,128,6,2023-11-10,168 x 78 x 8.1 mm (6.61 x 3.07 x 0.32 in),192.0,LCD,6.74,Android,True,5000.0,Octa-Core,2023,260,medium price
+Xiaomi,,256,8,2023-11-10,168 x 78 x 8.1 mm (6.61 x 3.07 x 0.32 in),192.0,LCD,6.74,Android,True,5000.0,Octa-Core,2023,260,medium price
+Xiaomi,Xiaomi Redmi 13C,128,6,2023-11-10,168 x 78 x 8.1 mm (6.61 x 3.07 x 0.32 in),192.0,LCD,6.74,Android,True,,Octa-Core,2023,260,low price
+Samsung,Samsung Galaxy A15,128,6,2023-12-16,160.1 x 76.8 x 8.4 mm (6.30 x 3.02 x 0.33 in),200.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Samsung,Samsung Galaxy A15,128,8,2023-12-16,160.1 x 76.8 x 8.4 mm (6.30 x 3.02 x 0.33 in),200.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Samsung,Samsung Galaxy A15,256,8,2023-12-16,160.1 x 76.8 x 8.4 mm (6.30 x 3.02 x 0.33 in),200.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Samsung,Samsung Galaxy A25,256,8,2023-12-16,161 x 76.5 x 8.3 mm (6.34 x 3.01 x 0.33 in),197.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Samsung,Samsung Galaxy A15 5G,128,6,2023-12-16,160.1 x 76.8 x 8.4 mm (6.30 x 3.02 x 0.33 in),200.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Xiaomi,Xiaomi Redmi 13C 5G,128,6,2023-12-16,168 x 78 x 8.1 mm (6.61 x 3.07 x 0.32 in),192.0,LCD,6.74,Android,False,5000.0,Octa-Core,2023,260,medium price
+Samsung,Samsung Galaxy A15,128,6,2023-12-16,160.1 x 76.8 x 8.4 mm (6.30 x 3.02 x 0.33 in),200.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Samsung,Samsung Galaxy A15,128,8,2023-12-16,160.1 x 76.8 x 8.4 mm (6.30 x 3.02 x 0.33 in),200.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Samsung,Samsung Galaxy A25,256,8,2023-12-16,161 x 76.5 x 8.3 mm (6.34 x 3.01 x 0.33 in),197.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Samsung,Samsung Galaxy A25,256,8,2023-12-16,161 x 76.5 x 8.3 mm (6.34 x 3.01 x 0.33 in),197.0,AMOLED,6.5,Android,True,,Octa-Core,2023,396,medium price
+Samsung,Samsung Galaxy A15 5G,128,6,2023-12-16,160.1 x 76.8 x 8.4 mm (6.30 x 3.02 x 0.33 in),200.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Samsung,Samsung Galaxy A15 5G,128,8,2023-12-16,160.1 x 76.8 x 8.4 mm (6.30 x 3.02 x 0.33 in),200.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Samsung,Samsung Galaxy A15 5G,256,8,2023-12-16,160.1 x 76.8 x 8.4 mm (6.30 x 3.02 x 0.33 in),200.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Xiaomi,Xiaomi Redmi 13C 5G,128,6,2023-12-16,168 x 78 x 8.1 mm (6.61 x 3.07 x 0.32 in),192.0,LCD,6.74,Android,False,5000.0,Octa-Core,2023,260,medium price
+Samsung,Samsung Galaxy A15,128,6,2023-12-16,160.1 x 76.8 x 8.4 mm (6.30 x 3.02 x 0.33 in),200.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Samsung,Samsung Galaxy A15,128,8,2023-12-16,160.1 x 76.8 x 8.4 mm (6.30 x 3.02 x 0.33 in),200.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Samsung,Samsung Galaxy A25,256,8,2023-12-16,161 x 76.5 x 8.3 mm (6.34 x 3.01 x 0.33 in),197.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Samsung,Samsung Galaxy A15 5G,128,6,2023-12-16,160.1 x 76.8 x 8.4 mm (6.30 x 3.02 x 0.33 in),200.0,AMOLED,6.5,Android,True,5000.0,Octa-Core,2023,396,medium price
+Xiaomi,Xiaomi Redmi 13C 5G,128,6,2023-12-16,168 x 78 x 8.1 mm (6.61 x 3.07 x 0.32 in),192.0,LCD,6.74,Android,False,5000.0,Octa-Core,2023,260,medium price
+Xiaomi,Xiaomi Redmi Note 13,256,8,2024-01-10,161.1 x 75 x 7.6 mm (6.34 x 2.95 x 0.30 in),174.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13,256,8,2024-01-10,161.1 x 75 x 7.6 mm (6.34 x 2.95 x 0.30 in),174.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,,256,12,2024-01-10,161.1 x 75 x 7.6 mm (6.34 x 2.95 x 0.30 in),174.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13,256,8,2024-01-10,161.1 x 75 x 7.6 mm (6.34 x 2.95 x 0.30 in),174.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13,256,12,2024-01-10,161.1 x 75 x 7.6 mm (6.34 x 2.95 x 0.30 in),174.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13,256,8,2024-01-10,161.1 x 75 x 7.6 mm (6.34 x 2.95 x 0.30 in),174.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13,256,12,2024-01-10,161.1 x 75 x 7.6 mm (6.34 x 2.95 x 0.30 in),174.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,low price
+Xiaomi,Xiaomi Poco X6,256,12,2024-01-12,161.2 x 74.3 x 8 mm (6.35 x 2.93 x 0.31 in),181.0,AMOLED,6.67,Android,True,5100.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco X6,512,12,2024-01-12,161.2 x 74.3 x 8 mm (6.35 x 2.93 x 0.31 in),181.0,AMOLED,6.67,Android,True,5100.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco X6 Pro,512,12,2024-01-12,160.5 x 74.3 x 8.3 mm (6.32 x 2.93 x 0.33 in),186.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,446,medium price
+Xiaomi,,512,12,2024-01-12,161.1 x 75 x 8 mm (6.34 x 2.95 x 0.31 in),179.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Poco X6,256,12,2024-01-12,161.2 x 74.3 x 8 mm (6.35 x 2.93 x 0.31 in),181.0,AMOLED,6.67,Android,True,5100.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco X6,512,12,2024-01-12,161.2 x 74.3 x 8 mm (6.35 x 2.93 x 0.31 in),181.0,AMOLED,6.67,Android,True,5100.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco X6 Pro,256,12,2024-01-12,160.5 x 74.3 x 8.3 mm (6.32 x 2.93 x 0.33 in),186.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco X6 Pro,512,12,2024-01-12,160.5 x 74.3 x 8.3 mm (6.32 x 2.93 x 0.33 in),186.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco M6 Pro,512,12,2024-01-12,161.1 x 75 x 8 mm (6.34 x 2.95 x 0.31 in),179.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Poco X6,256,12,2024-01-12,161.2 x 74.3 x 8 mm (6.35 x 2.93 x 0.31 in),181.0,AMOLED,6.67,Android,True,5100.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco X6,512,12,2024-01-12,161.2 x 74.3 x 8 mm (6.35 x 2.93 x 0.31 in),181.0,AMOLED,6.67,Android,True,5100.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco X6 Pro,256,12,2024-01-12,160.5 x 74.3 x 8.3 mm (6.32 x 2.93 x 0.33 in),186.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco X6 Pro,512,12,2024-01-12,160.5 x 74.3 x 8.3 mm (6.32 x 2.93 x 0.33 in),186.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco M6 Pro,512,12,2024-01-12,161.1 x 75 x 8 mm (6.34 x 2.95 x 0.31 in),179.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,,256,12,2024-01-12,161.2 x 74.3 x 8 mm (6.35 x 2.93 x 0.31 in),181.0,AMOLED,6.67,Android,True,5100.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco X6,512,12,2024-01-12,161.2 x 74.3 x 8 mm (6.35 x 2.93 x 0.31 in),181.0,AMOLED,6.67,Android,True,5100.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco X6 Pro,256,12,2024-01-12,160.5 x 74.3 x 8.3 mm (6.32 x 2.93 x 0.33 in),186.0,AMOLED,6.67,Android,True,,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco X6 Pro,512,12,2024-01-12,160.5 x 74.3 x 8.3 mm (6.32 x 2.93 x 0.33 in),186.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco M6 Pro,512,12,2024-01-12,161.1 x 75 x 8 mm (6.34 x 2.95 x 0.31 in),179.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro 4G,256,8,2024-01-15,161.1 x 75 x 8 mm (6.34 x 2.95 x 0.31 in),188.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro 4G,512,12,2024-01-15,161.1 x 75 x 8 mm (6.34 x 2.95 x 0.31 in),188.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13 4G,128,8,2024-01-15,162.3 x 75.6 x 8 mm (6.39 x 2.98 x 0.31 in),188.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,low price
+Xiaomi,,256,8,2024-01-15,162.3 x 75.6 x 8 mm (6.39 x 2.98 x 0.31 in),188.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro 4G,256,8,2024-01-15,161.1 x 75 x 8 mm (6.34 x 2.95 x 0.31 in),188.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro 4G,512,12,2024-01-15,161.1 x 75 x 8 mm (6.34 x 2.95 x 0.31 in),188.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,,128,8,2024-01-15,162.3 x 75.6 x 8 mm (6.39 x 2.98 x 0.31 in),188.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,low price
+Xiaomi,Xiaomi Redmi Note 13 4G,256,8,2024-01-15,162.3 x 75.6 x 8 mm (6.39 x 2.98 x 0.31 in),188.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro 4G,256,8,2024-01-15,161.1 x 75 x 8 mm (6.34 x 2.95 x 0.31 in),188.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro 4G,512,12,2024-01-15,161.1 x 75 x 8 mm (6.34 x 2.95 x 0.31 in),188.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,,256,8,2024-01-15,162.3 x 75.6 x 8 mm (6.39 x 2.98 x 0.31 in),188.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro 4G,256,8,2024-01-15,161.1 x 75 x 8 mm (6.34 x 2.95 x 0.31 in),188.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13 Pro 4G,512,12,2024-01-15,161.1 x 75 x 8 mm (6.34 x 2.95 x 0.31 in),188.0,AMOLED,6.67,Android,True,,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi Redmi Note 13 4G,128,8,2024-01-15,162.3 x 75.6 x 8 mm (6.39 x 2.98 x 0.31 in),188.5,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,395,medium price
+Xiaomi,Xiaomi 14 Ultra,512,16,2024-02-22,161.4 x 75.3 x 9.2 mm (6.35 x 2.96 x 0.36 in),229.5,AMOLED,6.73,Android,True,5000.0,Octa-Core,2024,522,medium price
+Xiaomi,Xiaomi 14 Ultra,512,16,2024-02-22,161.4 x 75.3 x 9.2 mm (6.35 x 2.96 x 0.36 in),229.5,AMOLED,6.73,Android,True,5000.0,Octa-Core,2024,522,medium price
+Xiaomi,Xiaomi 14 Ultra,512,16,2024-02-22,161.4 x 75.3 x 9.2 mm (6.35 x 2.96 x 0.36 in),229.5,AMOLED,6.73,Android,True,5000.0,Octa-Core,2024,522,medium price
+Xiaomi,Xiaomi Redmi A3,128,4,2024-02-23,168.3 x 76.3 x 8.3 mm (6.63 x 3.00 x 0.33 in),193.0,LCD,6.71,Android,True,5000.0,Octa-Core,2024,268,low price
+Xiaomi,Xiaomi Redmi A3,128,6,2024-02-23,168.3 x 76.3 x 8.3 mm (6.63 x 3.00 x 0.33 in),193.0,LCD,6.71,Android,True,5000.0,Octa-Core,2024,268,low price
+Xiaomi,,128,4,2024-02-23,168.3 x 76.3 x 8.3 mm (6.63 x 3.00 x 0.33 in),193.0,LCD,6.71,Android,True,5000.0,Octa-Core,2024,268,low price
+Xiaomi,Xiaomi Redmi A3,128,6,2024-02-23,168.3 x 76.3 x 8.3 mm (6.63 x 3.00 x 0.33 in),193.0,LCD,6.71,Android,True,5000.0,Octa-Core,2024,268,low price
+Xiaomi,Xiaomi Redmi A3,128,4,2024-02-23,168.3 x 76.3 x 8.3 mm (6.63 x 3.00 x 0.33 in),193.0,LCD,6.71,Android,True,5000.0,Octa-Core,2024,268,low price
+Samsung,Samsung Galaxy A35,128,8,2024-03-15,161.7 x 78 x 8.2 mm (6.37 x 3.07 x 0.32 in),209.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2024,390,medium price
+Samsung,Samsung Galaxy A35,256,8,2024-03-15,161.7 x 78 x 8.2 mm (6.37 x 3.07 x 0.32 in),209.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2024,390,medium price
+Samsung,Samsung Galaxy A55,256,8,2024-03-15,161.1 x 77.4 x 8.2 mm (6.34 x 3.05 x 0.32 in),213.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2024,390,medium price
+Samsung,Samsung Galaxy A55,256,12,2024-03-15,161.1 x 77.4 x 8.2 mm (6.34 x 3.05 x 0.32 in),213.0,AMOLED,6.6,Android,True,,Octa-Core,2024,390,medium price
+Samsung,Samsung Galaxy A35,128,8,2024-03-15,161.7 x 78 x 8.2 mm (6.37 x 3.07 x 0.32 in),209.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2024,390,medium price
+Samsung,Samsung Galaxy A35,256,8,2024-03-15,161.7 x 78 x 8.2 mm (6.37 x 3.07 x 0.32 in),209.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2024,390,medium price
+Samsung,Samsung Galaxy A35,128,8,2024-03-15,161.7 x 78 x 8.2 mm (6.37 x 3.07 x 0.32 in),209.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2024,390,medium price
+Samsung,Samsung Galaxy A55,256,8,2024-03-15,161.1 x 77.4 x 8.2 mm (6.34 x 3.05 x 0.32 in),213.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2024,390,medium price
+Samsung,Samsung Galaxy A55,256,12,2024-03-15,161.1 x 77.4 x 8.2 mm (6.34 x 3.05 x 0.32 in),213.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2024,390,medium price
+Samsung,Samsung Galaxy A35,128,8,2024-03-15,161.7 x 78 x 8.2 mm (6.37 x 3.07 x 0.32 in),209.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2024,390,medium price
+Samsung,Samsung Galaxy A35,256,8,2024-03-15,161.7 x 78 x 8.2 mm (6.37 x 3.07 x 0.32 in),209.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2024,390,medium price
+Samsung,Samsung Galaxy A55,256,8,2024-03-15,161.1 x 77.4 x 8.2 mm (6.34 x 3.05 x 0.32 in),213.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2024,390,medium price
+Samsung,Samsung Galaxy A55,256,12,2024-03-15,161.1 x 77.4 x 8.2 mm (6.34 x 3.05 x 0.32 in),213.0,AMOLED,6.6,Android,True,5000.0,Octa-Core,2024,390,medium price
+Samsung,Samsung Galaxy M55,256,8,2024-03-28,163.9 x 76.5 x 7.8 mm (6.45 x 3.01 x 0.31 in),180.0,AMOLED,6.7,Android,True,5000.0,Octa-Core,2024,393,medium price
+Samsung,Samsung Galaxy M55,256,8,2024-03-28,163.9 x 76.5 x 7.8 mm (6.45 x 3.01 x 0.31 in),180.0,AMOLED,6.7,Android,True,5000.0,Octa-Core,2024,393,medium price
+Samsung,Samsung Galaxy M15,128,6,2024-04-05,160.1 x 76.8 x 9.3 mm (6.30 x 3.02 x 0.37 in),217.0,AMOLED,6.5,Android,True,6000.0,Octa-Core,2024,396,low price
+Samsung,Samsung Galaxy M15,128,6,2024-04-05,160.1 x 76.8 x 9.3 mm (6.30 x 3.02 x 0.37 in),217.0,AMOLED,6.5,Android,True,6000.0,Octa-Core,2024,396,medium price
+Xiaomi,Xiaomi Poco F6 Pro,512,12,2024-05-23,160.9 x 75 x 8.2 mm (6.33 x 2.95 x 0.32 in),209.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,526,medium price
+Xiaomi,Xiaomi Poco F6 Pro,1000,16,2024-05-23,160.9 x 75 x 8.2 mm (6.33 x 2.95 x 0.32 in),209.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,526,medium price
+Xiaomi,Xiaomi Poco F6,512,12,2024-05-23,160.5 x 74.5 x 8 mm (6.32 x 2.93 x 0.31 in),179.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco F6 Pro,512,12,2024-05-23,160.9 x 75 x 8.2 mm (6.33 x 2.95 x 0.32 in),209.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,526,medium price
+Xiaomi,Xiaomi Poco F6 Pro,1000,16,2024-05-23,160.9 x 75 x 8.2 mm (6.33 x 2.95 x 0.32 in),209.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,526,medium price
+Xiaomi,Xiaomi Poco F6,512,12,2024-05-23,160.5 x 74.5 x 8 mm (6.32 x 2.93 x 0.31 in),179.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi Poco F6 Pro,512,12,2024-05-23,160.9 x 75 x 8.2 mm (6.33 x 2.95 x 0.32 in),209.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,526,medium price
+Xiaomi,Xiaomi Poco F6 Pro,1000,16,2024-05-23,160.9 x 75 x 8.2 mm (6.33 x 2.95 x 0.32 in),209.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,526,medium price
+Xiaomi,Xiaomi Poco F6,512,12,2024-05-23,160.5 x 74.5 x 8 mm (6.32 x 2.93 x 0.31 in),179.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,446,medium price
+Samsung,,256,8,2024-05-24,162.3 x 78.6 x 9.1 mm (6.39 x 3.09 x 0.36 in),222.0,AMOLED,6.6,Android,True,6000.0,Octa-Core,2024,390,medium price
+Xiaomi,Xiaomi Redmi A3x,128,4,2024-05-24,168.4 x 76.3 x 8.3 mm (6.63 x 3.00 x 0.33 in),193.0,LCD,6.71,Android,False,5000.0,Octa-Core,2024,268,low price
+Xiaomi,Xiaomi Redmi 13,256,8,2024-06-03,168.6 x 76.3 x 8.3 mm (6.64 x 3.00 x 0.33 in),205.0,LCD,6.79,Android,True,5030.0,Octa-Core,2024,396,low price
+Xiaomi,Xiaomi Redmi 13,256,8,2024-06-03,168.6 x 76.3 x 8.3 mm (6.64 x 3.00 x 0.33 in),205.0,LCD,6.79,Android,True,5030.0,Octa-Core,2024,396,low price
+Xiaomi,Xiaomi Redmi 13,256,8,2024-06-03,168.6 x 76.3 x 8.3 mm (6.64 x 3.00 x 0.33 in),205.0,LCD,6.79,Android,True,5030.0,Octa-Core,2024,396,low price
+Xiaomi,Xiaomi Redmi 13,256,8,2024-06-03,168.6 x 76.3 x 8.3 mm (6.64 x 3.00 x 0.33 in),205.0,LCD,6.79,Android,True,5030.0,Octa-Core,2024,396,low price
+Xiaomi,Xiaomi Poco M6 4G,256,8,2024-06-13,168.6 x 76.3 x 8.3 mm (6.64 x 3.00 x 0.33 in),205.0,LCD,6.79,Android,True,5030.0,Octa-Core,2024,396,low price
+Xiaomi,Xiaomi Poco M6 4G,256,8,2024-06-13,168.6 x 76.3 x 8.3 mm (6.64 x 3.00 x 0.33 in),205.0,LCD,6.79,Android,True,5030.0,Octa-Core,2024,396,medium price
+Xiaomi,Xiaomi Poco M6 4G,256,8,2024-06-13,168.6 x 76.3 x 8.3 mm (6.64 x 3.00 x 0.33 in),205.0,LCD,6.79,Android,True,5030.0,Octa-Core,2024,396,low price
+Xiaomi,Xiaomi Poco M6 4G,256,8,2024-06-13,168.6 x 76.3 x 8.3 mm (6.64 x 3.00 x 0.33 in),205.0,LCD,6.79,Android,True,5030.0,Octa-Core,2024,396,low price
+Xiaomi,Xiaomi Mix Flip,512,12,2024-07-19,167.5 x 74 x 7.6 mm,190.0,AMOLED,6.86,Android,True,4780.0,Octa-Core,2024,460,high price
+Samsung,Samsung Galaxy A06,128,6,2024-08-22,167.3 x 77.3 x 8 mm (6.59 x 3.04 x 0.31 in),189.0,LCD,6.7,Android,False,5000.0,Octa-Core,2024,262,low price
+Xiaomi,Xiaomi Redmi 14C,128,6,2024-08-30,171.9 x 77.8 x 8.2 mm (6.77 x 3.06 x 0.32 in),211.0,LCD,6.88,Android,True,5160.0,Octa-Core,2024,260,low price
+Xiaomi,Xiaomi Redmi 14C,128,8,2024-08-30,171.9 x 77.8 x 8.2 mm (6.77 x 3.06 x 0.32 in),211.0,LCD,6.88,Android,True,5160.0,Octa-Core,2024,260,medium price
+Xiaomi,Xiaomi Redmi 14C,128,6,2024-08-30,171.9 x 77.8 x 8.2 mm (6.77 x 3.06 x 0.32 in),211.0,LCD,6.88,Android,True,5160.0,Octa-Core,2024,260,medium price
+Apple,Apple iPhone 16 Pro,256,8,2024-09-20,149.6 x 71.5 x 8.3 mm (5.89 x 2.81 x 0.33 in),199.0,OLED,6.3,iOS,True,3582.0,Hexa-Core,2024,460,medium price
+Apple,Apple iPhone 16 Pro,512,8,2024-09-20,149.6 x 71.5 x 8.3 mm (5.89 x 2.81 x 0.33 in),199.0,OLED,6.3,iOS,True,3582.0,Hexa-Core,2024,460,high price
+Apple,Apple iPhone 16 Pro,1000,8,2024-09-20,149.6 x 71.5 x 8.3 mm (5.89 x 2.81 x 0.33 in),199.0,OLED,6.3,iOS,True,3582.0,Hexa-Core,2024,460,high price
+Apple,,512,8,2024-09-20,163 x 77.6 x 8.3 mm (6.42 x 3.06 x 0.33 in),227.0,OLED,6.9,iOS,True,4685.0,Hexa-Core,2024,460,high price
+Apple,Apple iPhone 16,256,8,2024-09-20,147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in),170.0,OLED,6.1,iOS,True,3561.0,Hexa-Core,2024,460,medium price
+Apple,Apple iPhone 16,512,8,2024-09-20,147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in),170.0,OLED,6.1,iOS,True,3561.0,Hexa-Core,2024,460,medium price
+Apple,Apple iPhone 16 Plus,256,8,2024-09-20,160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in),199.0,OLED,6.7,iOS,True,4674.0,Hexa-Core,2024,460,medium price
+Apple,Apple iPhone 16 Plus,512,8,2024-09-20,160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in),199.0,OLED,6.7,iOS,True,,Hexa-Core,2024,460,medium price
+Apple,Apple iPhone 16 Pro,256,8,2024-09-20,149.6 x 71.5 x 8.3 mm (5.89 x 2.81 x 0.33 in),199.0,OLED,6.3,iOS,True,3582.0,Hexa-Core,2024,460,medium price
+Apple,Apple iPhone 16 Pro,512,8,2024-09-20,149.6 x 71.5 x 8.3 mm (5.89 x 2.81 x 0.33 in),199.0,OLED,6.3,iOS,True,3582.0,Hexa-Core,2024,460,medium price
+Apple,,1000,8,2024-09-20,149.6 x 71.5 x 8.3 mm (5.89 x 2.81 x 0.33 in),199.0,OLED,6.3,iOS,True,3582.0,Hexa-Core,2024,460,medium price
+Apple,Apple iPhone 16 Pro Max,512,8,2024-09-20,163 x 77.6 x 8.3 mm (6.42 x 3.06 x 0.33 in),227.0,OLED,6.9,iOS,True,4685.0,Hexa-Core,2024,460,medium price
+Apple,Apple iPhone 16 Pro Max,1000,8,2024-09-20,163 x 77.6 x 8.3 mm (6.42 x 3.06 x 0.33 in),227.0,OLED,6.9,iOS,True,4685.0,Hexa-Core,2024,460,high price
+Apple,Apple iPhone 16,256,8,2024-09-20,147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in),170.0,OLED,6.1,iOS,True,3561.0,Hexa-Core,2024,460,medium price
+Apple,Apple iPhone 16,512,8,2024-09-20,147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in),170.0,OLED,6.1,iOS,True,3561.0,Hexa-Core,2024,460,medium price
+Apple,Apple iPhone 16 Plus,256,8,2024-09-20,160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in),199.0,OLED,6.7,iOS,True,4674.0,Hexa-Core,2024,460,medium price
+Apple,Apple iPhone 16 Plus,512,8,2024-09-20,160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in),199.0,OLED,6.7,iOS,True,4674.0,Hexa-Core,2024,460,medium price
+Apple,Apple iPhone 16 Pro,256,8,2024-09-20,149.6 x 71.5 x 8.3 mm (5.89 x 2.81 x 0.33 in),199.0,OLED,6.3,iOS,True,3582.0,Hexa-Core,2024,460,high price
+Apple,Apple iPhone 16 Pro,512,8,2024-09-20,149.6 x 71.5 x 8.3 mm (5.89 x 2.81 x 0.33 in),199.0,OLED,6.3,iOS,True,3582.0,Hexa-Core,2024,460,high price
+Apple,Apple iPhone 16,256,8,2024-09-20,147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in),170.0,OLED,6.1,iOS,True,3561.0,Hexa-Core,2024,460,medium price
+Apple,,512,8,2024-09-20,147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in),170.0,OLED,6.1,iOS,True,3561.0,Hexa-Core,2024,460,medium price
+Apple,Apple iPhone 16 Plus,256,8,2024-09-20,160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in),199.0,OLED,6.7,iOS,True,4674.0,Hexa-Core,2024,460,medium price
+Apple,Apple iPhone 16 Plus,512,8,2024-09-20,160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in),199.0,OLED,6.7,iOS,True,4674.0,Hexa-Core,2024,460,medium price
+Xiaomi,Xiaomi 14T,512,12,2024-09-26,160.5 x 75.1 x 7.8 mm or 8.0 mm,193.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,446,medium price
+Xiaomi,,512,12,2024-09-26,160.4 x 75.1 x 8.4 mm (6.31 x 2.96 x 0.33 in),209.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi 14T,512,12,2024-09-26,160.5 x 75.1 x 7.8 mm or 8.0 mm,193.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,446,medium price
+Xiaomi,Xiaomi 14T Pro,512,12,2024-09-26,160.4 x 75.1 x 8.4 mm (6.31 x 2.96 x 0.33 in),209.0,AMOLED,6.67,Android,True,5000.0,Octa-Core,2024,446,medium price
